@@ -20,7 +20,7 @@
   <meta name="og:image" content="https://krosnoodrzanskie.pl/images/slot-gacor.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://krosnoodrzanskie.pl/templates/krosno/images/favicon.ico" />
-  <link rel="canonical" href="https://krosnoodrzanskie.pl/" />
+  <link rel="canonical" href="https://www.krosnoodrzanskie.pl/" />
   <link rel="amphtml" href="https://krosnoodrzanskie.pages.dev/"/>
   <!-- start preload -->
   <link rel="preload" href="https://krosnoodrzanskie.pl/templates/krosno/images/favicon.ico" as="image" />
