@@ -20,7 +20,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://conference.naspa.org/lib/img/favicons/favicon-16x16.png" />
   <link rel="canonical" href="https://www.conference.naspa.org/" />
-  <link rel="amphtml" href="https://www.conference-naspa.pages.dev/"/>
+  <link rel="amphtml" href="https://conference-naspa.pages.dev/"/>
   <!-- start preload -->
   <link rel="preload" href="https://conference.naspa.org/lib/img/favicons/favicon-16x16.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -3381,8 +3381,8 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
 </div>
 <div class="REKOMENDASI">
-  <a href="https://www.conference-naspa.pages.dev/" rel="nofollow noreferrer" class="register">LOGIN</a>
-  <a href="https://www.conference-naspa.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR</a>
+  <a href="https://conference-naspa.pages.dev/" rel="nofollow noreferrer" class="register">LOGIN</a>
+  <a href="https://conference-naspa.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR</a>
   </div>
 
 
