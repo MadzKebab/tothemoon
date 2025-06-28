@@ -967,7 +967,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://krosnoodrzanskie.pl/" data-spm="dhome"><img src="hhttps://krosnoodrzanskie.pl/images/slot-gacor.jpg" alt="Situs Slot Online Terbaik Pragmatic Play dan Slot88 Gacor Hari Ini"></a></div>
+              <div class="lzd-logo-content"><a href="https://krosnoodrzanskie.pl/" data-spm="dhome"><img src="https://krosnoodrzanskie.pl/images/slot-gacor.jpg" alt="Situs Slot Online Terbaik Pragmatic Play dan Slot88 Gacor Hari Ini"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
