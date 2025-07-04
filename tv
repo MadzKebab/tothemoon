@@ -20,7 +20,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://ik.imagekit.io/pdsq3wfil/1000x.png" />
   <link rel="canonical" href="https://projectethos.tv/" />
-  <link rel="amphtml" href="https://projectethos.pages.dev/"/>
+  <link rel="amphtml" href="https://garudaminsura.pages.dev/garudaku.html"/>
   <!-- start preload -->
   <link rel="preload" href="https://ik.imagekit.io/pdsq3wfil/1000x.png" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
@@ -3381,8 +3381,8 @@ if (!lzdDocCookies.getItem('t_uid')) {
   </div>
 </div>
 <div class="REKOMENDASI">
-  <a href="https://projectethos.pages.dev/" rel="nofollow noreferrer" class="register">LOGIN</a>
-  <a href="https://projectethos.pages.dev/" rel="nofollow noreferrer" class="login">DAFTAR</a>
+  <a href="https://garudaminsura.pages.dev/garudaku.html" rel="nofollow noreferrer" class="register">LOGIN</a>
+  <a href="https://garudaminsura.pages.dev/garudaku.html" rel="nofollow noreferrer" class="login">DAFTAR</a>
   </div>
 
 
