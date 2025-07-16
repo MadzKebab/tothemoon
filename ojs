@@ -1,26 +1,21 @@
 <?php
 
 /**
- * @defgroup index Index
- */
-
-/**
  * @file index.php
  *
- * Copyright (c) 2000-2017 John Willinsky
+ * Copyright (c) 2014-2017 Simon Fraser University
+ * Copyright (c) 2003-2017 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * @ingroup index
- *
- * @brief Handle site index requests.
  */
 
+// Initialize global environment
 require_once 'lib/pkp/includes/bootstrap.inc.php';
 
 define('INDEX_FILE_LOCATION', __FILE__);
 
-require_once 'lib/pkp/classes/core/PKPApplication.inc.php';
-
+// Instantiate the application and execute it
 $app = new Application();
-PKPApplication::bootstrap();
 $app->execute();
+
+?>
