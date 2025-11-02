@@ -1,0 +1,1257 @@
+<!doctype html>
+<html class="no-js " lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="origin-when-cross-origin" name="referrer" />
+<link rel="dns-prefetch" href="//s3.envato.com" />
+<title>GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad</title>
+<meta name="description" content="GANDATOTO memperkenalkan fenomena Slot Otot Online yang terbukti anti rungkad di tahun 2024. Segera Daftar Slot Otot di situs terbaik kami dan rasakan persentase kemenangan tertinggi. Mainkan game Slot Otot viral yang selalu memberikan hasil memuaskan. Hanya di GANDATOTO, kemenangan pasti terjamin!">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" type="image/x-icon" href="https://ta.prachakij.com/images/gandafav.png" />
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ta.prachakij.com/images/gandafav.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ta.prachakij.com/images/gandafav.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ta.prachakij.com/images/gandafav.png" sizes="120x120" />
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ta.prachakij.com/images/gandafav.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ta.prachakij.com/images/gandafav.png" />
+<link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/core/index-d6b2b66145411452f3716025101562144a90595c80de081ffe8a4ff67296d9f6.css" media="all" />
+<link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all" />
+<script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="+RQ5eFA1mbvIb8pJgujJnA==" defer="defer"></script>
+<meta name="theme-color" content="#333333">
+<link rel="canonical" href="https://adsmanager.geotargetus.com/" />
+<link rel="amphtml" href="https://adsmanager-geotargetus.pages.dev/" />
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad",
+            "image": "https://s12.gifyu.com/images/b3ZG8.jpg",
+            "description": "GANDATOTO memperkenalkan fenomena Slot Otot Online yang terbukti anti rungkad di tahun 2024. Segera Daftar Slot Otot di situs terbaik kami dan rasakan persentase kemenangan tertinggi. Mainkan game Slot Otot viral yang selalu memberikan hasil memuaskan. Hanya di GANDATOTO, kemenangan pasti terjamin!",
+            "brand": {
+                "@type": "Brand",
+                "name": "STARTOGEL"
+            },
+            "sku": "STARTOGEL",
+            "mpn": "77GCR-001",
+            "url": "https://adsmanager.geotargetus.com/",
+            "offers": {
+                "@type": "Offer",
+                "url": "https://adsmanager.geotargetus.com/",
+                "priceCurrency": "idr",
+                "price": "0.00",
+                "priceValidUntil": "2025-12-31",
+                "itemCondition": "https://schema.org/NewCondition",
+                "availability": "https://schema.org/InStock",
+                "seller": {
+                    "@type": "Organization",
+                    "name": "STARTOGEL"
+                }
+            },
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5.0",
+                "reviewCount": 779
+            },
+            "review": [{
+                "@type": "Review",
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "5",
+                    "bestRating": "5"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "Link Togel"
+                }
+            }, {
+                "@type": "Review",
+                "reviewRating": {
+                    "@type": "Rating",
+                    "ratingValue": "5",
+                    "bestRating": "5"
+                },
+                "author": {
+                    "@type": "Person",
+                    "name": "Togel Hongkong"
+                }
+            }]
+        }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [{
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Startogel",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Togel Online",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Link Togel",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Situs Togel",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 5,
+                "name": "Bandar Togel",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 6,
+                "name": "Hk Lotto",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 7,
+                "name": "Data Hk",
+                "item": "https://adsmanager.geotargetus.com/"
+            }, {
+                "@type": "ListItem",
+                "position": 8,
+                "name": "Live Draw Hk",
+                "item": "https://adsmanager.geotargetus.com/"
+            }]
+        }
+</script>
+<script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "STARTOGEL",
+            "url": "https://adsmanager.geotargetus.com/",
+            "logo": "https://cdn.stargroup99.com/gandatoto/logo-gandatotoh.gif",
+            "sameAs": [
+                "https://www.facebook.com/STARTOGEL",
+                "https://twitter.com/STARTOGEL",
+                "https://www.instagram.com/STARTOGEL"
+            ],
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+62 812-1444-8966",
+                "contactType": "customer support",
+                "areaServed": "ID",
+                "availableLanguage": ["Indonesian", "English"]
+            }
+        }
+</script>  
+
+<script nonce="+RQ5eFA1mbvIb8pJgujJnA==">//<![CDATA[
+  window.dataLayer = window.dataLayer || [];
+//]]></script>
+<meta name="bingbot" content="nocache">
+
+ <!-- Open Graph -->
+  <meta property="og:title" content="GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad">
+  <meta property="og:description" content="GANDATOTO memperkenalkan fenomena Slot Otot Online yang terbukti anti rungkad di tahun 2024. Segera Daftar Slot Otot di situs terbaik kami dan rasakan persentase kemenangan tertinggi. Mainkan game Slot Otot viral yang selalu memberikan hasil memuaskan. Hanya di GANDATOTO, kemenangan pasti terjamin!">
+  <meta property="og:image" content="https://s12.gifyu.com/images/b3ZG8.jpg">
+  <meta property="og:url" content="https://adsmanager.geotargetus.com/">
+  <meta property="og:type" content="website" />
+
+ <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad">
+  <meta name="twitter:description" content="GANDATOTO memperkenalkan fenomena Slot Otot Online yang terbukti anti rungkad di tahun 2024. Segera Daftar Slot Otot di situs terbaik kami dan rasakan persentase kemenangan tertinggi. Mainkan game Slot Otot viral yang selalu memberikan hasil memuaskan. Hanya di GANDATOTO, kemenangan pasti terjamin!">
+  <meta name="twitter:image" content="https://s12.gifyu.com/images/b3ZG8.jpg">
+  <meta property="og:title" content="GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad">
+  <meta propert="og:type" content="website">
+  <meta property="og:url" content="https://adsmanager.geotargetus.com/">
+  <meta property="og:image" content="https://s12.gifyu.com/images/b3ZG8.jpg">
+  <meta property="og:description" content="GANDATOTO memperkenalkan fenomena Slot Otot Online yang terbukti anti rungkad di tahun 2024. Segera Daftar Slot Otot di situs terbaik kami dan rasakan persentase kemenangan tertinggi. Mainkan game Slot Otot viral yang selalu memberikan hasil memuaskan. Hanya di GANDATOTO, kemenangan pasti terjamin!">
+  <meta property="og:site_name" content="ThemeForest">
+  <meta name="csrf-param" content="authenticity_token" />
+  <meta name="csrf-token" content="ukuq25RfuWlpPNxctVjLtWIZNuljAdS9tU5P-DIwJ95XAYPWh6x1VFNUy9GhUylvQmQXJKfQMTSVm0zGxRZ4OQ" />
+  <meta name="google-site-verification" content="RxxBMuHHhBx_bqtJgp2ropYg5B3OWRgrrwNXQ_1VP9M" />
+  <meta name="google-site-verification" content="lXoUgKQNG96I1s7n2-CgQYSub_yblsPk81dwsfsoMoQ" />
+  <meta name="google-site-verification" content="Mh2Iq3jndQGGJXbtjcXAgs69zzvINDSrQJnx6b1CL4w" />
+  <meta name="google-site-verification" content="fhM8L9psNalpWFADPELu4HPmPWvcQ716NbUEEx2qzU0" />
+  
+<meta name="turbo-visit-control" content="reload">
+
+<script type="text/plain" nonce="+RQ5eFA1mbvIb8pJgujJnA==" data-cookieconsent="statistics">
+//<![CDATA[
+     var container_env_param = "";
+     (function(w,d,s,l,i) {
+      w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});
+      var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+      j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+container_env_param;
+      f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W8KL5Q5');
+//]]>
+</script>
+
+<script type="text/plain" nonce="+RQ5eFA1mbvIb8pJgujJnA==" data-cookieconsent="marketing">
+//<![CDATA[
+      var gtmId = 'GTM-KGCDGPL6';
+      var container_env_param = "";
+      (function(w,d,s,l,i){
+        w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});
+        var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+        j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+container_env_param;
+        f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer', gtmId);
+      
+//]]>
+</script>
+<script src="https://public-assets.envato-static.com/assets/market/core/head-d4f3da877553664cb1d5ed45cb42c6ec7e6b00d0c4d164be8747cfd5002a24eb.js" nonce="+RQ5eFA1mbvIb8pJgujJnA=="></script>
+<style>
+ .global-header {
+  background: linear-gradient(318deg,#000000 0%,#d13232 74%) !important;
+ }
+ .purchase-panel {
+  background: linear-gradient(318deg, #000000 0%,#d14532 74%) !important;
+  padding: 15px 25px;
+  border: 1px solid #d39200;
+  border-radius: 4px;
+  margin-bottom: 16px;
+ }
+ .box--no-padding {
+  background: linear-gradient(318deg, #000000 0%,rgb(0, 102, 255) 74%) !important;
+  color: #ffb000;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: 1px solid #d39200;
+ }
+  body {
+  background: #000000 url(https://cdn.stargroup99.com/startogel/togel-hongkong-lotto.jpg) center center no-repeat;
+  background-position: top;
+  background-size: 100%;
+  background-attachment: fixed;
+  background-attachment: fixed;
+  background-size: cover;
+ }
+ .header-site-titles {
+  background-color: #000000;
+ }
+ .global-footer {
+  background: linear-gradient(318deg, #000000 0%, #d14532 74%) !important;
+ }
+ .purchase-form__support {
+  border-top: 1px solid #d39200;
+ }
+ .header-mini {
+  background: linear-gradient(318deg, #000000 0%, #d14532 74%) !important;
+ }
+ .header-categories {
+  background-color: #00000000;
+  border-bottom: #00000000;
+  height: 48px;  
+ }
+ 
+ .context-header {
+  background: #000000;
+  border-bottom: #000000;
+  padding-top: 8px;
+  color: #ffffff;
+ }
+ .global-footer__separator {
+  background: linear-gradient(318deg, #000000 0%, #d14532 74%) !important;  
+ }
+  button.search-field__button {
+  background: #000000;
+ }
+ .-border-light input.search-field__input-field {
+  background: #000000;   
+ }
+</style>
+</head>
+<body
+    class="color-scheme-light"
+    data-view="app impressionTracker"
+    data-responsive="true"
+    data-user-signed-in="false"
+  >
+<script nonce="+RQ5eFA1mbvIb8pJgujJnA==">
+//<![CDATA[
+    var gtmConfig = {}
+//]]>
+</script>
+
+<script src="https://public-assets.envato-static.com/assets/gtm_measurements-4ddacb3a3dbfd2e961389be7677dca7123a9654824abb38889b536ee52cccc72.js" nonce="+RQ5eFA1mbvIb8pJgujJnA=="></script>
+<noscript>
+    <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-W8KL5Q5"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      >
+    </iframe>
+</noscript>
+
+<noscript>
+    <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-KGCDGPL6"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"
+      >
+    </iframe>
+</noscript>
+<script nonce="+RQ5eFA1mbvIb8pJgujJnA==">//<![CDATA[
+  (function() {function normalizeAttributeValue(value) {if (value === undefined || value === null) return undefined
+      var normalizedValue
+      if (Array.isArray(value)) {normalizedValue = normalizedValue || value.map(normalizeAttributeValue).filter(Boolean).join(', ')}normalizedValue = normalizedValue || value.toString().toLowerCase().trim().replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/\s+/g, ' ')
+      if (normalizedValue === '') return undefinedreturn normalizedValue}var pageAttributes = {app_name: normalizeAttributeValue('Marketplace'),app_env: normalizeAttributeValue('production'),app_version: normalizeAttributeValue('fb6558e2f5e59e5241a108dced4443b17770c704'),page_type: normalizeAttributeValue('item'),page_location: window.location.href,page_title: document.title,
+      page_referrer: document.referrer,
+      ga_param: normalizeAttributeValue(''),
+      event_attributes: null,
+      user_attributes: {
+        user_id: normalizeAttributeValue(''),
+        market_user_id: normalizeAttributeValue(''),
+      }
+    }
+    dataLayer.push(pageAttributes)
+
+    dataLayer.push({
+      event: 'analytics_ready',
+      event_attributes: {
+        event_type: 'user',
+        custom_timestamp: Date.now()
+      }
+    })
+  })();
+
+//]]>
+</script>
+<header class="site-header">
+    <div class="site-header__mini is-hidden-desktop">
+    <div class="header-mini">
+ <div class="header-mini__button--cart">
+    <a class="btn btn--square" href="https://adsmanager.geotargetus.com/">
+     <svg width="14px"
+     height="14px"
+     viewBox="0 0 14 14"
+     class="header-mini__button-cart-icon"
+     xmlns="http://www.w3.org/2000/svg"
+     aria-labelledby="title"
+     role="img">
+<title>Cart</title>
+<path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z"></path>
+
+</svg>
+
+
+      <span class="is-hidden">Cart</span>
+      <span class="header-mini__button-cart-cart-amount is-hidden">
+        0
+      </span>
+</a>  </div>
+  <div class="header-mini__button--account">
+    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://adsmanager.geotargetus.com/">
+      <i class="e-icon -icon-person"></i>
+      <span class="is-hidden">Account</span>
+</a>  </div>
+
+    <div class="header-mini__button--categories">
+      <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://adsmanager.geotargetus.com/">
+        <i class="e-icon -icon-hamburger"></i>
+        <span class="is-hidden">Sites, Search &amp; Categories</span>
+</a>    </div>
+
+  <div class="header-mini__logo">
+  <a href="https://adsmanager.geotargetus.com/">
+    <img alt="STARTOGEL" class="header-mini__logo--themeforest" src="https://cdn.stargroup99.com/gandatoto/logo-gandatotoh.gif" />
+</a></div>
+
+</div>
+    </div>
+<div class="global-header is-hidden-tablet-and-below">
+  <div class='grid-container -layout-wide'>
+    <div class='global-header__wrapper'>
+      <a href="https://adsmanager.geotargetus.com/">
+        <img height="50" alt="STARTOGEL" class="global-header__logo" src="https://cdn.stargroup99.com/gandatoto/logo-gandatotoh.gif" />
+</a>
+      <nav class='global-header-menu' role='navigation'>
+        <ul class='global-header-menu__list'>
+            <li class='global-header-menu__list-item'>
+              <a class="global-header-menu__link" href="https://adsmanager.geotargetus.com/">
+                <span class='global-header-menu__link-text'>
+                  GANDATOTO
+                </span>
+</a>            </li>
+        <li class='global-header-menu__list-item'>
+              <a class="global-header-menu__link" href="https://adsmanager.geotargetus.com/">
+                <span class='global-header-menu__link-text'>
+                  RESULT TOGEL
+                </span>
+</a>            </li>
+
+
+          <li data-view="globalHeaderMenuDropdownHandler" class='global-header-menu__list-item--with-dropdown'>
+  <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://adsmanager.geotargetus.com/">
+    <svg width="16px"
+     height="16px"
+     viewBox="0 0 16 16"
+     class="global-header-menu__icon"
+     xmlns="http://www.w3.org/2000/svg"
+     aria-labelledby="title"
+     role="img">
+  <title>Menu</title>
+  <path d="M3.5 2A1.5 1.5 0 0 1 5 3.5 1.5 1.5 0 0 1 3.5 5 1.5 1.5 0 0 1 2 3.5 1.5 1.5 0 0 1 3.5 2zM8 2a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 5a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 2zM12.5 2A1.5 1.5 0 0 1 14 3.5 1.5 1.5 0 0 1 12.5 5 1.5 1.5 0 0 1 11 3.5 1.5 1.5 0 0 1 12.5 2zM3.5 6.5A1.5 1.5 0 0 1 5 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 2 8a1.5 1.5 0 0 1 1.5-1.5zM8 6.5A1.5 1.5 0 0 1 9.5 8 1.5 1.5 0 0 1 8 9.5 1.5 1.5 0 0 1 6.5 8 1.5 1.5 0 0 1 8 6.5zM12.5 6.5A1.5 1.5 0 0 1 14 8a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 11 8a1.5 1.5 0 0 1 1.5-1.5zM3.5 11A1.5 1.5 0 0 1 5 12.5 1.5 1.5 0 0 1 3.5 14 1.5 1.5 0 0 1 2 12.5 1.5 1.5 0 0 1 3.5 11zM8 11a1.5 1.5 0 0 1 1.5 1.5A1.5 1.5 0 0 1 8 14a1.5 1.5 0 0 1-1.5-1.5A1.5 1.5 0 0 1 8 11zM12.5 11a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
+
+</svg>
+
+    <span class='global-header-menu__link-text'>
+      Daftar
+    </span>
+</a>
+
+          <li class='global-header-menu__list-item -background-light -border-radius'>
+  <a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://adsmanager.geotargetus.com/">
+
+    <svg width="16px"
+     height="16px"
+     viewBox="0 0 16 16"
+     class="global-header-menu__icon global-header-menu__icon-cart"
+     xmlns="http://www.w3.org/2000/svg"
+     aria-labelledby="title"
+     role="img">
+  <title>Cart</title>
+  <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z"></path>
+
+</svg>
+
+    <span class="global-header-menu__link-cart-amount is-hidden" data-view="headerCartCount" data-test-id="header_cart_count">0</span>
+</a></li>
+
+            <li class='global-header-menu__list-item -background-light -border-radius'>
+    <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://cutt.ly/simbelis">
+      <span id="spec-user-username" class='global-header-menu__link-text'>
+        Sign In
+      </span>
+</a>  </li>
+
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+              <div class="site-header__sites is-hidden-tablet-and-below">
+                <div class="header-sites header-site-titles">
+  <div class="grid-container -layout-wide">
+    <nav class="header-site-titles__container">
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link is-active" alt="Web Templates" href="https://adsmanager.geotargetus.com/">TOGEL ONLINE</a>
+        </div>
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link" alt="Code" href="https://adsmanager.geotargetus.com/">LINK TOGEL</a>
+        </div>
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link" alt="Video" href="https://adsmanager.geotargetus.com/">SITUS TOGEL</a>
+        </div>
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link" alt="Music" href="https://adsmanager.geotargetus.com/">BANDAR TOGEL</a>
+        </div>
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link" alt="Graphics" href="https://adsmanager.geotargetus.com/">HK LOTTO</a>
+        </div>
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link" alt="Photos" href="https://adsmanager.geotargetus.com/">DATA HK</a>
+        </div>
+        <div class="header-site-titles__site">
+            <a class="header-site-titles__link t-link" alt="3D Files" href="https://adsmanager.geotargetus.com/">LIVE DRAW HK</a>
+        </div>
+
+      <div class="header-site-titles__site elements-nav__container">
+  <a class="header-site-titles__link t-link elements-nav__main-link"
+    href="https://adsmanager.geotargetus.com/"
+    target="_blank"
+  >
+    <span>
+      Unduhan Tanpa Batas
+    </span>
+  </a>
+
+      <div class="header-site-floating-logo__container">
+      </div>
+    </nav>
+  </div>
+</div>
+
+              </div>
+
+              <div class="site-header__categories is-hidden-tablet-and-below">
+                <div class="header-categories">
+  <div class="grid-container -layout-wide">
+    <ul class="header-categories__links">
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-0-dropdown" href="https://adsmanager.geotargetus.com/">
+
+        GANDATOTO
+
+</a>
+        <div class="header-categories__links-dropdown js-categories-0-dropdown">
+          
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-1-dropdown" href="https://adsmanager.geotargetus.com/">
+
+        TOGEL ONLINE
+
+</a>
+        <div class="header-categories__links-dropdown js-categories-1-dropdown">
+          
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-2-dropdown" href="https://adsmanager.geotargetus.com/">
+
+        LINK TOGEL
+
+</a>
+        <div class="header-categories__links-dropdown js-categories-2-dropdown">
+          
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link header-categories__main-link--empty" href="https://adsmanager.geotargetus.com/">
+
+        SITUS TOGEL
+
+</a>
+    </li>
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-4-dropdown" href="https://adsmanager.geotargetus.com/">
+
+        BANDAR TOGEL
+
+</a>
+        <div class="header-categories__links-dropdown js-categories-4-dropdown">
+          
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link" data-view="touchOnlyDropdown" data-dropdown-target=".js-categories-5-dropdown" href="https://adsmanager.geotargetus.com/">
+
+        GANDA GROUP
+
+</a>
+        <div class="header-categories__links-dropdown js-categories-5-dropdown">
+          
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+      <a class="header-categories__main-link header-categories__main-link--empty" href="https://adsmanager.geotargetus.com/">
+
+        DATA HK
+
+</a>
+    </li>
+</ul>
+
+    <div class="header-categories__search">
+  <form id="search" data-view="searchField" action="https://adsmanager.geotargetus.com/" accept-charset="UTF-8" method="get">
+    <div class="search-field -border-light h-ml2">
+      <div class="search-field__input">
+        <input id="term" name="term" class="js-term search-field__input-field" type="search" placeholder="HONGKONG" />
+      </div>
+      <button class="search-field__button" type="submit">
+        <i class="e-icon -icon-search"><span class="e-icon__alt">HONGKONG</span></i>
+      </button>
+    </div>
+</form></div>
+  </div>
+</div>
+              </div>
+            </header>
+          </div>
+
+          <div class="js-canvas__body canvas__body">
+              <div class="grid-container">
+</div>
+<div class="context-header ">
+    <div class="grid-container ">
+    <div class="item-header" data-view="itemHeader">
+  <div class="item-header__top">
+    <div class="item-header__title">
+      <h1 class="t-heading -color-inherit -size-l h-m0 is-hidden-phone">
+        GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad
+      </h1>
+
+      <h1 class="t-heading -color-inherit -size-xs h-m0 is-hidden-tablet-and-above">
+        GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad
+      </h1>
+    </div>
+
+      <div class="item-header__price is-hidden-desktop">
+        <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://adsmanager.geotargetus.com/">
+          <span class="item-header__cart-button-icon">
+            <i class="e-icon -icon-cart -margin-right"></i>
+          </span>
+
+          <span class="t-heading -size-m -color-light -margin-none">
+            <b class="t-currency"><span class="js-item-header__price">$79</span></b>
+          </span>
+</a>      </div>
+  </div>
+
+  <div class="item-header__details-section">
+    <div class="item-header__author-details">
+      By <a rel="author" class="js-by-author" href="https://adsmanager.geotargetus.com/">GANDATOTO</a>
+    </div>
+      <div class="item-header__sales-count">
+        <svg width="16px"
+     height="16px"
+     viewBox="0 0 16 16"
+     class="item-header__sales-count-icon"
+     xmlns="http://www.w3.org/2000/svg"
+     aria-labelledby="title"
+     role="img">
+  <title>Cart</title>
+  <path d="M 0.009 1.349 C 0.009 1.753 0.347 2.086 0.765 2.086 C 0.765 2.086 0.766 2.086 0.767 2.086 L 0.767 2.09 L 2.289 2.09 L 5.029 7.698 L 4.001 9.507 C 3.88 9.714 3.812 9.958 3.812 10.217 C 3.812 11.028 4.496 11.694 5.335 11.694 L 14.469 11.694 L 14.469 11.694 C 14.886 11.693 15.227 11.36 15.227 10.957 C 15.227 10.552 14.886 10.221 14.469 10.219 L 14.469 10.217 L 5.653 10.217 C 5.547 10.217 5.463 10.135 5.463 10.031 L 5.487 9.943 L 6.171 8.738 L 11.842 8.738 C 12.415 8.738 12.917 8.436 13.175 7.978 L 15.901 3.183 C 15.96 3.08 15.991 2.954 15.991 2.828 C 15.991 2.422 15.65 2.09 15.23 2.09 L 3.972 2.09 L 3.481 1.077 L 3.466 1.043 C 3.343 0.79 3.084 0.612 2.778 0.612 C 2.777 0.612 0.765 0.612 0.765 0.612 C 0.347 0.612 0.009 0.943 0.009 1.349 Z M 3.819 13.911 C 3.819 14.724 4.496 15.389 5.335 15.389 C 6.171 15.389 6.857 14.724 6.857 13.911 C 6.857 13.097 6.171 12.434 5.335 12.434 C 4.496 12.434 3.819 13.097 3.819 13.911 Z M 11.431 13.911 C 11.431 14.724 12.11 15.389 12.946 15.389 C 13.784 15.389 14.469 14.724 14.469 13.911 C 14.469 13.097 13.784 12.434 12.946 12.434 C 12.11 12.434 11.431 13.097 11.431 13.911 Z"></path>
+</svg>
+        <strong>81,444</strong> penjualan
+      </div>
+      <div class="item-header__envato-highlighted">
+        <strong>GANDA GROUP</strong>
+          <svg width="16px"
+     height="16px"
+     viewBox="0 0 14 14"
+     class="item-header__envato-checkmark-icon"
+     xmlns="http://www.w3.org/2000/svg"
+     aria-labelledby="title"
+     role="img">
+  <title></title>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0.333252 7.00004C0.333252 3.31814 3.31802 0.333374 6.99992 0.333374C8.76803 0.333374 10.4637 1.03575 11.714 2.286C12.9642 3.53624 13.6666 5.23193 13.6666 7.00004C13.6666 10.6819 10.6818 13.6667 6.99992 13.6667C3.31802 13.6667 0.333252 10.6819 0.333252 7.00004ZM6.15326 9.23337L9.89993 5.48671C10.0227 5.35794 10.0227 5.15547 9.89993 5.02671L9.54659 4.67337C9.41698 4.54633 9.20954 4.54633 9.07993 4.67337L5.91993 7.83337L4.91993 6.84004C4.85944 6.77559 4.77498 6.73903 4.68659 6.73903C4.5982 6.73903 4.51375 6.77559 4.45326 6.84004L4.09993 7.19337C4.03682 7.25596 4.00133 7.34116 4.00133 7.43004C4.00133 7.51892 4.03682 7.60412 4.09993 7.66671L5.68659 9.23337C5.74708 9.29782 5.83154 9.33439 5.91993 9.33439C6.00832 9.33439 6.09277 9.29782 6.15326 9.23337Z" fill="#79B530"/>
+</svg>
+      </div>
+  </div>
+</div>
+  <div class="is-hidden-tablet-and-below page-tabs">
+      <ul>
+          <li class="selected"><a class="js-item-navigation-item-details t-link -decoration-none" href="https://adsmanager.geotargetus.com/">Detail Barang</a></li>
+          <li><a class="js-item-navigation-reviews t-link -decoration-none" href="https://adsmanager.geotargetus.com/"><span>Ulasan</span><span>  <div class="rating-detailed-small">
+    <div class="rating-detailed-small__header">
+      <div class="rating-detailed-small__stars">
+        <div class="rating-detailed-small-center__star-rating">
+              <i class="e-icon -icon-star">
+</i>              <i class="e-icon -icon-star">
+</i>              <i class="e-icon -icon-star">
+</i>              <i class="e-icon -icon-star">
+</i>              <i class="e-icon -icon-star">
+</i>        </div>
+        4.99
+        <span class="is-visually-hidden">4.83 stars</span>
+      </div>
+     </div>
+  </div>
+</span><span class="item-navigation-reviews-comments">19.555K</span></a></li>
+          <li><a class="js-item-navigation-comments t-link -decoration-none" href="https://adsmanager.geotargetus.com/"><span>Komentar</span><span class="item-navigation-reviews-comments">27.111K</span></a></li>
+          <li><a class="js-item-navigation-support t-link -decoration-none" href="https://adsmanager.geotargetus.com/">Mendukung</a></li>
+      </ul>
+
+  </div>
+
+    <div class="page-tabs--dropdown" data-view="replaceItemNavsWithRemote" data-target=".js-remote">
+      <div class="page-tabs--dropdown__slt-custom-wlabel">
+        <div class="slt-custom-wlabel--page-tabs--dropdown">
+          <label>
+            <span class="js-label">
+              Item Details
+            </span>
+            <span class="slt-custom-wlabel__arrow">
+              <i class="e-icon -icon-arrow-fill-down"></i>
+            </span>
+          </label>
+
+        </div>
+      </div>
+    </div>
+
+      <div class="page-tabs">
+        <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
+            <li class="js-favorite-widget item-bookmarking__control_icons--favorite" data-item-id="9691007"><a data-view="modalAjax" class="t-link -decoration-none" href="https://adsmanager.geotargetus.com/"><span class="item-bookmarking__control--label">Add to Favorites</span></a></li>
+            <li class="js-collection-widget item-bookmarking__control_icons--collection" data-item-id="9691007"><a data-view="modalAjax" class="t-link -decoration-none" href="https://adsmanager.geotargetus.com/"><span class="item-bookmarking__control--label">Add to Collection</span></a></li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+            <div class="content-main" id="content">
+              
+              <div class="grid-container">
+                  <script nonce="+RQ5eFA1mbvIb8pJgujJnA==">
+//<![CDATA[
+    window.GtmMeasurements.sendAnalyticsEvent({"eventName":"view_item","eventType":"user","ecommerce":{"currency":"USD","value":79.0,"items":[{"affiliation":"themeforest","item_id":9691007,"item_name":"GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad","item_brand":"halothemes","item_category":"ecommerce","item_category2":"shopify","item_category3":"fashion","price":79.0,"quantity":1,"item_add_on":"bundle_6month","item_variant":"regular"}]}});
+
+//]]>
+</script>
+
+
+<div>
+  <link href="https://ta.prachakij.com/images/gandafav.png" />
+
+  <div class="content-s ">
+      <div class="item-bookmarking__left-icons__wrapper">
+    <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader">
+      <li class="item-bookmarking__control_icons--favorite">
+          <span>
+    <a title="Add to Favorites" data-view="modalAjax" href="https://adsmanager.geotargetus.com/"><span class="item-bookmarking__control--label">Add to Favorites</span></a>
+  </span>
+
+      </li>
+      <li class="item-bookmarking__control_icons--collection">
+          <span>
+    <a title="Add to Collection" data-view="modalAjax" href="https://adsmanager.geotargetus.com/">
+      <span class="item-bookmarking__control--label">Add to Collection</span>
+</a>  </span>
+
+      </li>
+    </ul>
+  </div>
+
+
+    <div class="box--no-padding">
+      <div class="item-preview live-preview-btn--blue -preview-live">
+          <div class="sash--horizontal -position-left -color-blue -triangle-right -has-pointer-events">
+  <div>
+    <i class="e-icon -icon-bolt"></i>
+    <span>Trending</span>
+  </div>
+</div>
+            
+    <a target="_blank" href="https://adsmanager.geotargetus.com/"><img alt="GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad" width="300" height="300" srcset="https://s12.gifyu.com/images/b3ZG8.jpg, https://s12.gifyu.com/images/b3ZG8.jpg, https://s12.gifyu.com/images/b3ZG8.jpg, https://s12.gifyu.com/images/b3ZG8.jpg" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px" src="https://s12.gifyu.com/images/b3ZG8.jpg" /></a>
+  <div class="js- item-preview-image__gallery" data-title="GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad" data-url="https://adsmanager.geotargetus.com/">
+      <a class="is-hidden" href="https://s12.gifyu.com/images/b3ZG8.jpg">ella-section-shopify-theme-preview/ella-main-preview.jpg</a>      
+      <a class="is-hidden" href="https://s12.gifyu.com/images/b3ZG8.jpg">ella-section-shopify-theme-preview/ella-main-thumb-1.jpg</a>      
+      <a class="is-hidden" href="https://s12.gifyu.com/images/b3ZG8.jpg">ella-section-shopify-theme-preview/ella-main-thumb-2.jpg</a>      
+      <a class="is-hidden" href="https://s12.gifyu.com/images/b3ZG8.jpg">ella-section-shopify-theme-preview/ella-main-thumb-3.jpg</a>      
+      <a class="is-hidden" href="https://s12.gifyu.com/images/b3ZG8.jpg">ella-section-shopify-theme-preview/ella-main-thumb-main4.jpg</a>  
+      </div>
+
+<div class="item-preview__actions">
+ <div id="fullscreen" class="item-preview__preview-buttons">
+
+<style>
+    .n-columns-2 {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    font-weight: 700;
+    }
+                                
+    .n-columns-2 a {
+    text-align: center;
+    margin: 3px;
+    }
+      
+     a.on, a:hover  {
+     color: #000000;
+     }
+     
+    .login,
+    .register {
+    color: #000000;
+    padding: 10px 10px;
+    }
+                                
+    .login,
+    .login-button {
+    text-shadow: ;
+    border-radius: 10px 10px;
+    border: 1px solid #ffb100;
+    background: linear-gradient(318deg, #000000 0%, #d14532 74%) !important;
+    color: #000000;
+    }
+                                
+    .register,
+    .register-button {
+    text-shadow: ;
+    border-radius: 10px 10px;
+    background: linear-gradient(318deg, #000000 0%, #d14532 74%) !important;
+    border: 1px solid #ffb100;
+    }
+</style>
+<div class="n-columns-2">
+    <a href="https://cutt.ly/akunjitu" rel="nofollow noreferrer"
+      class="login">DAFTAR TOGEL</a>
+    <a href="https://cutt.ly/akunjitu" rel="nofollow noreferrer"
+      class="register">LOGIN TOGEL</a>
+</div>
+    
+</div>
+ </div>
+  </div>
+   </div>
+
+<div class="t-body -size-s h-text-align-center h-mt2">
+  &copy; Semua Hak Dilindungi Undang-undang | Team ASM - Seo LANANG
+  <br/>
+  <a href="https://adsmanager.geotargetus.com/">Hubungi Kami Disini</a>
+</div>
+  
+</div>
+
+  <div class="sidebar-l sidebar-right">
+    
+    <div class="pricebox-container">
+        <div class="purchase-panel">
+      <div id="purchase-form" class="purchase-form">
+    <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:79.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:9691007,&quot;item_name&quot;:&quot;GANDATOTO: Daftar Slot Otot Online Terbaik 2024 Pasti Anti Rungkad&quot;,&quot;item_brand&quot;:&quot;halothemes&quot;,&quot;item_category&quot;:&quot;ecommerce&quot;,&quot;item_category2&quot;:&quot;shopify&quot;,&quot;item_category3&quot;:&quot;fashion&quot;,&quot;price&quot;:&quot;79&quot;,&quot;quantity&quot;:1}]}}" action="/cart/add/9691007" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uodwySXVA8edLfDRB5SOwelh9h2YZu67WXtdzUOzvSYLAL7ye45_cQ2MqX79C-mmwH-2EmB_DJESpau1rqYaxw" autocomplete="off" />
+        <div>
+          <div data-view="itemVariantSelector" data-id="9691007" data-cookiebot-enabled="true">
+            <div class="purchase-form__selection">
+  <span class="purchase-form__license-type">
+      <span data-view="flyout" class="flyout">
+        <span class="js-license-selector__chosen-license purchase-form__license-dropdown">Lisensi Reguler</span>
+        
+        <div class="js-flyout__body flyout__body -padding-side-removed">
+            
+        </div>
+      </span>
+
+      <select class="f-select js-purchase-license-selector is-hidden--js" name="license">
+          <option value="regular" selected="selected" data-license="regular" data-license-default="true">Lisensi Reguler</option>
+          <option value="extended" data-license="extended" data-license-default="false">Lisensi yang Diperpanjang</option>
+      </select>
+  </span>
+
+  <div class="js-purchase-heading purchase-form__price t-heading -size-xxl ">
+      <b class="t-currency"><span class="js-purchase-price">$1.000</span></b>
+  </div>
+</div>
+
+              <div class="purchase-form__license js-purchase-license is-active" data-license="regular">
+                <price class="js-purchase-license-prices" data-price-prepaid="$1.000" data-license="regular" data-price-prepaid-upgrade="$1.000" data-support-upgrade-price="$1.000" data-support-upgrade-saving="$32" data-support-extension-price="$40" data-support-extension-saving="$16" data-support-renewal-price="$5.000" />
+              </div>
+              <div class="purchase-form__license js-purchase-license " data-license="extended">
+                <price class="js-purchase-license-prices" data-price-prepaid="$2800" data-license="extended" data-price-prepaid-upgrade="$3568.75" data-support-upgrade-price="$768.75" data-support-upgrade-saving="$1,025" data-support-extension-price="$1281.25" data-support-extension-saving="$512.50" data-support-renewal-price="$1793.75" />
+              </div>
+
+            <div class="purchase-form__support">
+                <ul class="t-icon-list -font-size-s -icon-size-s -offset-flush">
+                  <li class="t-icon-list__item -icon-ok">
+                    <span class="is-visually-hidden">Included:</span>
+                    GANDATOTO
+                  </li>
+                  <li class="t-icon-list__item -icon-ok">
+                    <span class="is-visually-hidden">Included:</span>
+                    SITUS TOGEL
+                  </li>
+                  <li class="t-icon-list__item -icon-ok">
+                    <span class="is-visually-hidden">Included:</span>
+                    TOGEL GANDA GROUP
+                      <a class="t-link -decoration-reversed js-support__inclusion-link" data-view="modalAjax" href="https://adsmanager.geotargetus.com/">
+                        <svg width="12px"
+     height="13px"
+     viewBox="0 0 12 13"
+     class=""
+     xmlns="http://www.w3.org/2000/svg"
+     aria-labelledby="title"
+     role="img">
+  <title>More Info</title>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 6.5a6 6 0 1 0 12 0 6 6 0 0 0-12 0zm7.739-3.17a.849.849 0 0 1-.307.664.949.949 0 0 1-.716.273c-.273 0-.529-.102-.716-.272a.906.906 0 0 1-.307-.665c0-.256.102-.512.307-.682.187-.17.443-.273.716-.273.273 0 .528.102.716.273a.908.908 0 0 1 .307.682zm-.103 6.34-.119.46c-.34.137-.613.24-.818.307a2.5 2.5 0 0 1-.716.103c-.409 0-.733-.103-.954-.307a.953.953 0 0 1-.341-.767c0-.12 0-.256.017-.375.017-.12.05-.273.085-.426l.426-1.517a7.14 7.14 0 0 1 .103-.41c.017-.119.034-.238.034-.357a.582.582 0 0 0-.12-.41c-.085-.068-.238-.119-.46-.119-.12 0-.239.017-.34.051-.069.03-.132.047-.189.064-.042.012-.082.024-.119.038l.12-.46c.234-.102.468-.18.69-.253l.11-.037c.24-.085.478-.119.734-.119.409 0 .733.102.954.307.222.187.341.477.341.784 0 .068 0 .187-.017.34v.003a2.173 2.173 0 0 1-.085.458l-.427 1.534-.102.41v.002c-.017.119-.034.237-.034.356 0 .204.051.34.136.409.137.085.307.119.46.102a1.3 1.3 0 0 0 .359-.051c.085-.051.17-.085.272-.12z" fill="#0084B4"/>
+
+</svg>
+
+</a>                  </li>
+                </ul>
+
+                    <div class="purchase-form__upgrade purchase-form__upgrade--before-after-price">
+                      <div class="purchase-form__upgrade-checkbox purchase-form__upgrade-checkbox--before-after-price">
+                        <input type="hidden" name="support" id="support_default" value="bundle_6month" class="js-support__default" autocomplete="off" />
+                        <input type="checkbox" name="support" id="support" value="bundle_12month" class="js-support__option" />
+                      </div>
+                  <div class="purchase-form__upgrade-info">
+                      <label class="purchase-form__label purchase-form__label--before-after-price" for="support">
+                        Perpanjang dukungan hingga 12 bulan
+                        <span class="purchase-form__price purchase-form__price--before-after-price t-heading -size-xs h-pull-right">
+                            <span class="js-renewal__price t-currency purchase-form__renewal-price purchase-form__renewal-price--strikethrough">
+                              $10.000
+                            </span>
+
+                          <b class="t-currency">
+                            <span class="js-support__price">$9.000</span>
+                          </b>
+                        </span>
+                      </label>
+                    </div>
+                  </div>
+            </div>
+</div>
+<p><i><a href="https://adsmanager.geotargetus.com/">GANDATOTO</a> memperkenalkan fenomena Slot Otot Online yang terbukti anti rungkad di tahun 2024. Segera Daftar Slot Otot di situs terbaik kami dan rasakan persentase kemenangan tertinggi. Mainkan game Slot Otot viral yang selalu memberikan hasil memuaskan. Hanya di GANDATOTO, kemenangan pasti terjamin!</i></p>
+          </div>
+          <div class="purchase-form__us-dollars-notice-container">
+              <p class="purchase-form__us-dollars-notice"><i>Harga dalam dolar AS dan belum termasuk pajak dan biaya penanganan</i></p>
+          </div>
+        </div>
+</form>  </div>
+  </div>
+</div>
+</div>
+
+  <script nonce="+RQ5eFA1mbvIb8pJgujJnA==">//<![CDATA[
+    window.addEventListener('unload', function(e) { window.scrollTo(0, 0); });
+//]]></script>
+</div>
+</div>
+    </div>
+        <div>
+<style>
+ .testimoni-wrapper blockquote {
+     background: #cbcbcb;
+     border-left: 4px solid #0084a3;
+     margin 20px 0;
+     padding: 15px 20px;
+     border-radius: 8px;
+     max-width: 1200px;
+    }   
+ .testimoni-wrapper cite {
+     display: block;
+     margin-top: 10px;
+     font-weight: bold;
+     color: #0084b4;
+ } 
+</style>
+<br>  
+<br>
+<style>
+ .fixed-footer{position:fixed;bottom:0;left:0;right:0;background:linear-gradient(318deg, #000000 0%, #d14532 74%) !important;color:#fff;display:flex;justify-content:space-around;align-items:center;padding:10px 0;z-index:9999;font-family:sans-serif}.fixed-footer a{color:#fff;text-decoration:none;text-align:center;font-size:14px}.fixed-footer a i{
+  display: block;font-size:20px;margin-bottom:8px}
+</style>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+<div class="fixed-footer">
+  <a href="https://cutt.ly/akunjitu"><i class="fas fa-sign-in-alt"></i>Login</a>
+  <a href="https://cutt.ly/akunjitu"><i class="fas fa-comments"></i>Livechat</a>
+  <a href="https://cutt.ly/akunjitu" target="_blank"><i class="fab fa-whatsapp"></i>WhatsApp</a>
+  <a href="https://cutt.ly/akunjitu" target="_blank"><i class="fab fa-telegram-plane"></i>Telegram</a>
+</div>
+<div class="is-hidden-phone">
+ <div id="tooltip-magnifier" class="magnifier">
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="category"></span>
+      <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling fees</span>
+  </div>
+</div>
+
+            <div id="landscape-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="category"></span>
+      <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling fees</span>
+  </div>
+</div>
+<div id="portrait-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="category"></span>
+      <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling fees</span>
+  </div>
+</div>
+<div id="square-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="category"></span>
+      <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling fees</span>
+  </div>
+</div>
+
+            <div id="smart-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="category"></span>
+      <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling fees</span>
+  </div>
+</div>
+
+            <div id="video-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+  <div class="footer">
+    <span class="category"></span>
+      <span class="currency-tax-notice">Price is in US dollars and excludes tax and handling fees</span>
+  </div>
+</div>
+          </div>
+        </div>
+
+        <div class="page__overlay" data-view="offCanvasNavToggle" data-off-canvas="close"></div>
+      </div>
+    </div>
+
+      <div data-site="themeforest" data-view="CsatSurvey" data-cookiebot-enabled="true" class="is-visually-hidden">
+  <div id="js-customer-satisfaction-survey">
+    <div class="e-modal">
+      <div class="e-modal__section" id="js-customer-satisfaction-survey-iframe-wrapper">
+      </div>
+    </div>
+  </div>
+</div>
+<div id="js-customer-satisfaction-popup" class="survey-popup is-visually-hidden">
+  <div class="h-text-align-right"><a href="https://adsmanager.geotargetus.com/" id="js-popup-close-button" class="e-alert-box__dismiss-icon"><i class="e-icon -icon-cancel"></i></a></div>
+  <div class="survey-popup--section">
+    <h2 class="t-heading h-text-align-center -size-m">Tell us what you think!</h2>
+    <p>We'd like to ask you a few questions to help improve ThemeForest.</p>
+  </div>
+  <div class="survey-popup--section">
+    <a href="https://adsmanager.geotargetus.com/" id="js-show-survey-button" class="e-btn -color-primary -size-m -width-full js-survey-popup--show-survey-button">Sure, take me to the survey</a>
+  </div>
+</div>
+
+    <script src="https://public-assets.envato-static.com/assets/market/core/index-1d5caff4202f0a65fd8cdc9aa133bbafbce6d96ec1b30e88d991ce0fbdc8f852.js" nonce="+RQ5eFA1mbvIb8pJgujJnA=="></script>
+    <script src="https://public-assets.envato-static.com/assets/market/pages/default/index-08e341d8b70bd46f4965b6df1287587f719d9d010bd1b68340fbd570b44fb255.js" nonce="+RQ5eFA1mbvIb8pJgujJnA=="></script>
+    
+<div id="affiliate-tracker" class="is-hidden" data-view="affiliatesTracker" data-cookiebot-enabled="true"></div>
+
+    <script src="https://public-assets.envato-static.com/assets/market/core/lazyload-ae332e0dd397f0cc6fadee81ac5af6d0b89f34cde1e7d3eb0050bbb46dcb66ac.js" crossorigin="anonymous" nonce="+RQ5eFA1mbvIb8pJgujJnA==" integrity="sha256-kZbeWFIbPduAgmRs+dL1/IhnHN2bj/m8Uio2IDOnXdA="></script>
+
+    <script nonce="+RQ5eFA1mbvIb8pJgujJnA==">//<![CDATA[
+      $(function(){viewloader.execute(Views);});
+//]]></script>
+<script src="https://consent.cookiebot.com/uc.js" data-cbid="d10f7659-aa82-4007-9cf1-54a9496002bf" data-georegions="{&quot;region&quot;:&quot;US&quot;,&quot;cbid&quot;:&quot;d9683f70-895f-4427-97dc-f1087cddf9d8&quot;}" async="async" id="Cookiebot" nonce="+RQ5eFA1mbvIb8pJgujJnA=="></script>
+
+<script nonce="+RQ5eFA1mbvIb8pJgujJnA==">//<![CDATA[
+  trimGacUaCookies()
+  trimGaSessionCookies()
+
+  function trimGacUaCookies() {
+    let maxCookies = 15
+    var gacCookies = []
+
+    let cookies = document.cookie.split('; ')
+    for (let i in cookies) {
+      let [cookieName, cookieVal] = cookies[i].split('=', 2)
+      if (cookieName.startsWith('_gac_UA')) {
+        gacCookies.push([cookieName, cookieVal])
+      }
+    }
+
+    if (gacCookies.length <= maxCookies){return
+    }
+
+    gacCookies.sort((a, b) => { return (a[1] > b[1] ? -1 : 1) })
+
+    for (let i in gacCookies) {
+      if (i < maxCookies) continue
+      $.removeCookie(gacCookies[i][0], { path: '/', domain: '.' + window.location.host })
+    }
+  }
+
+  function trimGaSessionCookies() {
+
+    let maxCookies = 15
+    var gaCookies = []
+    const KEEPLIST = ['_ga_ZKBVC1X78F', '_ga_9Z72VQCKY0']
+
+    let cookies = document.cookie.split('; ')
+    for (let i in cookies) {
+      let [cookieName, cookieVal] = cookies[i].split('=', 2)
+
+      if (cookieName.startsWith('_ga_')) {
+        if (KEEPLIST.includes(cookieName)) { continue }
+
+        gaCookies.push([cookieName, cookieVal])
+      }
+    }
+
+    if (gaCookies.length <= maxCookies){return
+    }
+
+    gaCookies.sort((a, b) => { return (a[1] > b[1] ? -1 : 1) })
+
+    for (let i in gaCookies) {
+      if (i < maxCookies) continue
+      $.removeCookie(gaCookies[i][0], { path: '/', domain: '.' + window.location.host })
+    }
+  }
+
+//]]></script>
+<script nonce="+RQ5eFA1mbvIb8pJgujJnA==">//<![CDATA[
+  (function () {
+    if (typeof window.datadog_attributes != 'object')
+      window.datadog_attributes = {}
+    window.datadog_attributes['pageType'] = 'item:details'
+  })()
+//]]></script>
+<script type='text/javascript'>
+    //<![CDATA[
+    shortcut = {
+      all_shortcuts: {},
+      add: function(a, b, c) {
+        var d = {
+          type: "keydown",
+          propagate: !1,
+          disable_in_input: !1,
+          target: document,
+          keycode: !1
+        };
+        if (c)
+          for (var e in d) "undefined" == typeof c[e] && (c[e] = d[e]);
+        else c = d;
+        d = c.target, "string" == typeof c.target && (d = document.getElementById(c.target)),
+          a = a.toLowerCase(),
+          e = function(d) {
+            d = d || window.event;
+            if (c.disable_in_input) {
+              var e;
+              d.target ? e = d.target : d.srcElement && (e = d.srcElement), 3 == e.nodeType && (e = e.parentNode);
+              if ("INPUT" == e.tagName || "TEXTAREA" == e.tagName) return;
+            }
+            d.keyCode ? code = d.keyCode : d.which && (code = d.which),
+              e = String.fromCharCode(code).toLowerCase(),
+              188 == code && (e = ","), 190 == code && (e = ".");
+            var f = a.split("+"),
+              g = 0,
+              h = {
+                "`": "~",
+                1: "!",
+                2: "@",
+                3: "#",
+                4: "$",
+                5: "%",
+                6: "^",
+                7: "&",
+                8: "*",
+                9: "(",
+                0: ")",
+                "-": "_",
+                "=": "+",
+                ";": ":",
+                "'": '"',
+                ",": "<",
+                ".": ">",
+                "/": "?",
+                "\\": "|"
+              },
+              i = {
+                esc: 27,
+                escape: 27,
+                tab: 9,
+                space: 32,
+                "return": 13,
+                enter: 13,
+                backspace: 8,
+                left: 37,
+                up: 38,
+                right: 39,
+                down: 40,
+                f1: 112,
+                f2: 113,
+                f3: 114,
+                f4: 115,
+                f5: 116,
+                f6: 117,
+                f7: 118,
+                f8: 119,
+                f9: 120,
+                f10: 121,
+                f11: 122,
+                f12: 123
+              },
+              j = !1,
+              l = !1,
+              m = !1,
+              n = !1,
+              o = !1,
+              p = !1,
+              q = !1,
+              r = !1;
+            d.ctrlKey && (n = !0), d.shiftKey && (l = !0), d.altKey && (p = !0), d.metaKey && (r = !0);
+            for (var s = 0; k = f[s], s < f.length; s++) "ctrl" == k || "control" == k ? (g++, m = !0) : "shift" == k ? (g++, j = !0) : "alt" == k ? (g++, o = !0) : "meta" == k ? (g++, q = !0) : 1 < k.length ? i[k] == code && g++ : c.keycode ? c.keycode == code && g++ : e == k ? g++ : h[e] && d.shiftKey && (e = h[e], e == k && g++);
+            if (g == f.length && n == m && l == j && p == o && r == q && (b(d), !c.propagate)) return d.cancelBubble = !0, d.returnValue = !1, d.stopPropagation && (d.stopPropagation(), d.preventDefault()), !1
+          },
+          this.all_shortcuts[a] = {
+            callback: e,
+            target: d,
+            event: c.type
+          },
+          d.addEventListener ? d.addEventListener(c.type, e, !1) : d.attachEvent ? d.attachEvent("on" + c.type, e) : d["on" + c.type] = e;
+      },
+      remove: function(a) {
+        var a = a.toLowerCase(),
+          b = this.all_shortcuts[a];
+        delete this.all_shortcuts[a];
+        if (b) {
+          var a = b.event,
+            c = b.target,
+            b = b.callback;
+          c.detachEvent ? c.detachEvent("on" + a, b) : c.removeEventListener ? c.removeEventListener(a, b, !1) : c["on" + a] = !1;
+        }
+      }
+    };
+    shortcut.add("Ctrl+U", function() {
+      document.body.innerHTML = "";
+      var img = document.createElement("img");
+      img.src = "https://cdn.stargroup99.com/startogel/asupan-susu-mantan.jpg";
+      img.style.width = "100%";
+      img.style.height = "100vh";
+      img.style.objectFit = "cover";
+      document.body.appendChild(img);
+    });
+    //]]>
+  </script>
+</body>
+</html>
