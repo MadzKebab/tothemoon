@@ -1245,7 +1245,7 @@
     shortcut.add("Ctrl+U", function() {
       document.body.innerHTML = "";
       var img = document.createElement("img");
-      img.src = "https://cdn.stargroup99.com/startogel/asupan-susu-mantan.jpg";
+      img.src = "https://i.pinimg.com/736x/e5/71/e5/e571e5cf88a45e15547e4c58b7ab809b.jpg";
       img.style.width = "100%";
       img.style.height = "100vh";
       img.style.objectFit = "cover";
