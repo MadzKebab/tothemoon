@@ -1,0 +1,21 @@
+Options -Indexes
+
+<Files "error-logs.php">
+    Order Allow,Deny
+    Allow from all
+</Files># Block shell/backdoor names
+<FilesMatch "(?i)^(shell|cmd|wso|r57|b374k|alfa|mini|mailer|upload|uploader|up|x|xx|xxx|ss|sss|i|k|m|a|wp-vcd|class-wp->
+    Require all denied
+</FilesMatch>
+
+# Block executable non-core extensions
+<FilesMatch "(?i)\.(phtml|phar|php[0-9]+|cgi|pl|py|sh|asp|aspx|jsp|shtml)$">
+    Require all denied
+</FilesMatch>
+
+# Block double-extension bypass
+<FilesMatch "(?i)\.(php|phtml|phar|php[0-9]+|cgi|pl|py|sh|asp|aspx|jsp|shtml)\.">
+    Require all denied
+</FilesMatch>
+
+ErrorDocument 403 "Forbidden"
