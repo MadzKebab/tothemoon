@@ -10,15 +10,15 @@
          href="https://res.cloudinary.com/djmioscz9/image/upload/v1777726232/pavicon_ebiieo.png" />
       <link rel="apple-touch-icon" href="https://res.cloudinary.com/djmioscz9/image/upload/v1777726232/pavicon_ebiieo.png">
       <link rel="canonical" href="https://gcspublisher.com/shop/">
-      <link rel="alternate" href="https://gcspublisher.pages.dev/">
-      <link rel="alternate" href="https://gcspublisher.pages.dev/" hreflang="id">
-      <link rel="alternate" href="https://gcspublisher.pages.dev/" hreflang="en">
-      <link rel="alternate" href="https://gcspublisher.pages.dev/" hreflang="en">
-      <link rel="alternate" href="https://gcspublisher.pages.dev/" hreflang="x-default">
-      <link rel="alternate" hreflang="id-ID" href="https://gcspublisher.pages.dev/">
-      <link rel="alternate" hreflang="en-US" href="https://gcspublisher.pages.dev/">
-      <link rel="alternate" hreflang="en-SG" href="https://gcspublisher.pages.dev/">
-      <link rel="amphtml" href="https://gcspublisher.pages.dev/" />
+      <link rel="alternate" href="https://nvm-in-action.pages.dev/">
+      <link rel="alternate" href="https://nvm-in-action.pages.dev/" hreflang="id">
+      <link rel="alternate" href="https://nvm-in-action.pages.dev/" hreflang="en">
+      <link rel="alternate" href="https://nvm-in-action.pages.dev/" hreflang="en">
+      <link rel="alternate" href="https://nvm-in-action.pages.dev/" hreflang="x-default">
+      <link rel="alternate" hreflang="id-ID" href="https://nvm-in-action.pages.dev/">
+      <link rel="alternate" hreflang="en-US" href="https://nvm-in-action.pages.dev/">
+      <link rel="alternate" hreflang="en-SG" href="https://nvm-in-action.pages.dev/">
+      <link rel="amphtml" href="https://nvm-in-action.pages.dev/" />
       <link as="image" href="https://res.cloudinary.com/djmioscz9/image/upload/v1778919603/banner-sanghoki3_tuiimp.png" rel="preload">
       <link crossorigin href="https://fonts.googleapis.com" rel="preconnect">
       <link crossorigin href="https://ajax.googleapis.com" rel="preconnect">
@@ -509,10 +509,10 @@
       data-controller="checkout--checkout utilities--ab-test utilities--timer"
       data-utilities--timer-containers--countdown-outlet=".containers--countdown" id="teepublic">
       <div class="button-login-daftar" bis_skin_checked="1">
-         <a class="login" href="https://gcspublisher.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+         <a class="login" href="https://nvm-in-action.pages.dev/" rel="nofollow noreferrer" style="color: white;">
          LOGIN
          </a>
-         <a class="register" href="https://gcspublisher.pages.dev/" rel="nofollow noreferrer"
+         <a class="register" href="https://nvm-in-action.pages.dev/" rel="nofollow noreferrer"
             style="color: white;">
          DAFTAR
          </a>
@@ -893,7 +893,7 @@
                                        </div>
                                        <div class="m-product-preview__thumbs jsProductPreviewThumbs jsProductImgGlideCtrls"
                                           data-glide-el="controls">
-                                          <a data-id="0" href="https://gcspublisher.pages.dev/"
+                                          <a data-id="0" href="https://nvm-in-action.pages.dev/"
                                              class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on">
                                              <span class="link__content">
                                                 <picture
@@ -955,7 +955,7 @@
                                     data-cart-id="9a8c68d58aaa0c110ea9655af8a790a4"
                                     data-controller="rudderstack--filter-clicked" data-filter-name="gender"
                                     data-rudderstack--filter-clicked-location-value="product_attributes">
-                                    <center><a href="https://gcspublisher.pages.dev/" target="_blank">
+                                    <center><a href="https://nvm-in-action.pages.dev/" target="_blank">
                                        <img style="display:block;margin-left:auto;margin-right:auto;"
                                           src="https://res.cloudinary.com/djmioscz9/image/upload/v1777725924/logo_vbxi81.png"
                                           width="300" height="100">
@@ -1923,7 +1923,7 @@
                               }
                            </script>
                            <div class="seller-name__detail">
-                              <a href="https://gcspublisher.pages.dev/" target="_top"
+                              <a href="https://nvm-in-action.pages.dev/" target="_top"
                                  rel="noopener noreferrer">
                               SANGHOKI - 2026
                               </a>
@@ -3609,7 +3609,7 @@
          
          var rsEnvData = {
              write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-             data_plane_url: "https://gcspublisher.pages.dev/",
+             data_plane_url: "https://nvm-in-action.pages.dev/",
              js_use_beacon: false,
              anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
              global_properties: window.rudderstackGlobalProperties
@@ -4041,10 +4041,10 @@
                   <br>
                <b><a style="color: #fff;" href="https://gcspublisher.com/shop/">SANGHOKI : Bermain Di Situs Slot Demo Kaya Asli auto Cuan</a></b>
                <div class="popup-buttons">
-                  <a href="https://gcspublisher.pages.dev/">DAFTAR</a>
+                  <a href="https://nvm-in-action.pages.dev/">DAFTAR</a>
                </div>
                <div class="popup-button">
-                  <a href="https://gcspublisher.pages.dev/">LOGIN</a>
+                  <a href="https://nvm-in-action.pages.dev/">LOGIN</a>
                </div>
                <center><img src="https://res.cloudinary.com/djmioscz9/image/upload/v1777725924/logo_vbxi81.png" 
                   class="popup-image2"/></center>
