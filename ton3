@@ -8,7 +8,7 @@
             name="description"
         />
         <meta content="index,follow" name="robots" />
-        
+        <meta name="google-site-verification" content="0r6DS5g73EtZ2c9BeD04kaXtOguLnMDDu_NL_IzxWLo" />
         <link rel="canonical" href="https://www.wanderingspiritspa.com/" />
         <link rel="amphtml" href="https://unravelingwine.web.app/">
         <link rel="alternate" hreflang="th-th" href="https://unravelingwine.web.app/"/>
@@ -209,19 +209,18 @@
         <meta content="0" name="user-id" />
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
         <link href="https://unravelingwine.web.app/img/favicon.png" rel="shortcut icon" type="image/x-icon" />
-        <link href="https://dunedinbagels.com/files/css/style_6710e034.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/bottom-nav_8a8e0ee8.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/search-suggest_dfb31771.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/product-detail_66d4baae.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/product-grid_10986a4a.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/site-notice_1fc876bd.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/benchmark_48002668.css" rel="stylesheet" />
-        <link href="https://plazaitdotid.pages.dev/assets/css/product-filters.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/mega-menu-tiles_c36a6fb6.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/product-compare_3edf3f61.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/product-card-actions_ff541d01.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/modal_92246f0b.css" rel="stylesheet" />
-        <link href="https://dunedinbagels.com/files/css/reviews-points_14e4764c.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/style_6710e034.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/bottom-nav_8a8e0ee8.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/search-suggest_dfb31771.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/product-detail_66d4baae.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/product-grid_10986a4a.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/site-notice_1fc876bd.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/benchmark_48002668.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/mega-menu-tiles_c36a6fb6.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/product-compare_3edf3f61.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/product-card-actions_ff541d01.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/modal_92246f0b.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/reviews-points_14e4764c.css" rel="stylesheet" />
     
     <style>
         /* =====================================================
@@ -1811,7 +1810,7 @@
                 </div>
             </div>
         </div>
-        <link href="https://dunedinbagels.com/files/css/pd-lightbox_d72c7d6f.css" rel="stylesheet" />
+        <link href="https://unravelingwine.web.app/files/css/pd-lightbox_d72c7d6f.css" rel="stylesheet" />
         <style>
             .paylater-promo {
                 display: inline-flex;
@@ -6522,11 +6521,11 @@
                             </ul>
                             <div aria-label="Metode Pembayaran" class="ft-payments payments-small">
                                 <div class="pay-row">
-                                    <img alt="TTB" loading="lazy" src="https://dunedinbagels.com/assets/ttb.svg" />
-                                    <img alt="Kasikornbank" loading="lazy" src="https://dunedinbagels.com/assets/kasikornbank.svg" />
-                                    <img alt="Bangkok Bank" loading="lazy" src="https://dunedinbagels.com/assets/bangkok_bank.svg" />
-                                    <img alt="SCB" loading="lazy" src="https://dunedinbagels.com/assets/scb.svg" />
-                                    <img alt="Krungsri" loading="lazy" src="https://dunedinbagels.com/assets/krungsri.svg" />
+                                    <img alt="TTB" loading="lazy" src="https://unravelingwine.web.app/assets/ttb.svg" />
+                                    <img alt="Kasikornbank" loading="lazy" src="https://unravelingwine.web.app/assets/kasikornbank.svg" />
+                                    <img alt="Bangkok Bank" loading="lazy" src="https://unravelingwine.web.app/assets/bangkok_bank.svg" />
+                                    <img alt="SCB" loading="lazy" src="https://unravelingwine.web.app/assets/scb.svg" />
+                                    <img alt="Krungsri" loading="lazy" src="https://unravelingwine.web.app/assets/krungsri.svg" />
                                 </div>
                             </div>
                         </div>
@@ -8128,7 +8127,7 @@
                     </div>
                 </div>
             </div>
-            <script nonce="se3iyzEHMc9FQEB4wSyd0w==" src="https://dunedinbagels.com/files/js/chat-widget_96fc1b87.js"></script>
+            <script nonce="se3iyzEHMc9FQEB4wSyd0w==" src="https://unravelingwine.web.app/files/js/chat-widget_96fc1b87.js"></script>
             <!-- Footer Collapse Toggle Script -->
             <script nonce="se3iyzEHMc9FQEB4wSyd0w==">
                 document.addEventListener("DOMContentLoaded", function () {
