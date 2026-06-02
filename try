@@ -910,7 +910,7 @@ digitalData.page.pageInfo.pageName = pageName;
            "@type": "AggregateRating",
            "ratingValue": "5",
            "reviewCount": "128"
-           }
+           },
 
           "review": {
             "@type": "Review",
