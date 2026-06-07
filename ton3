@@ -9,14 +9,14 @@
         />
         <meta content="index,follow" name="robots" />
         <meta name="google-site-verification" content="0r6DS5g73EtZ2c9BeD04kaXtOguLnMDDu_NL_IzxWLo" />
-        <link rel="canonical" href="https://www.wanderingspiritspa.com/" />
+        <link rel="canonical" href="https://delmonicoskitchen.com/" />
         <link rel="amphtml" href="https://unravelingwine.web.app/">
-        <link rel="alternate" hreflang="th-th" href="https://www.wanderingspiritspa.com/"/>
-        <link rel="alternate" href="https://www.wanderingspiritspa.com/"/>
-        <link rel="alternate" hreflang="th" href="https://www.wanderingspiritspa.com/"/>
-        <link rel="alternate" hreflang="en" href="https://www.wanderingspiritspa.com/"/>
-        <link rel="alternate" hreflang="x-default" href="https://www.wanderingspiritspa.com/"/>
-        <link href="https://www.wanderingspiritspa.com/" rel="dns-prefetch preconnect">
+        <link rel="alternate" hreflang="th-th" href="https://delmonicoskitchen.com/"/>
+        <link rel="alternate" href="https://delmonicoskitchen.com/"/>
+        <link rel="alternate" hreflang="th" href="https://delmonicoskitchen.com/"/>
+        <link rel="alternate" hreflang="en" href="https://delmonicoskitchen.com/"/>
+        <link rel="alternate" hreflang="x-default" href="https://delmonicoskitchen.com/"/>
+        <link href="https://delmonicoskitchen.com/" rel="dns-prefetch preconnect">
 
         <script nonce="se3iyzEHMc9FQEB4wSyd0w==">
             window.ga4Ecomm = { viewItem: function () {}, addToCart: function () {} };
@@ -32,7 +32,7 @@
             content="เอสบีโอเบท ลิงก์ตรง สล็อต 2026 API แท้ PG SLOT ระบบออโต้ เติมเงิน-ถอนเงินไว ใช้ทรูมันนี่วอเลทได้ รองรับทุกแพลตฟอร์ม"
             property="og:description"
         />
-        <meta content="https://www.wanderingspiritspa.com/" property="og:url" />
+        <meta content="https://delmonicoskitchen.com/" property="og:url" />
         <meta content="https://unravelingwine.web.app/img/banner.webp" property="og:image" />
         <meta
             content="เอสบีโอเบท สล็อตอันดับหนึ่ง ปี 2026 ใช้งานง่าย ระบบรวดเร็ว มั่นคงปลอดภัย"
@@ -55,8 +55,8 @@
             {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
-                "@id": "https://www.wanderingspiritspa.com/#website",
-                "url": "https://www.wanderingspiritspa.com/",
+                "@id": "https://delmonicoskitchen.com/#website",
+                "url": "https://delmonicoskitchen.com/",
                 "name": "SBOBET",
                 "alternateName": "SBOBET",
                 "inLanguage": "th",
@@ -64,7 +64,7 @@
                     "@type": "SearchAction",
                     "target": {
                         "@type": "EntryPoint",
-                        "urlTemplate": "https://www.wanderingspiritspa.com/?q={search_term_string}"
+                        "urlTemplate": "https://delmonicoskitchen.com/?q={search_term_string}"
                     },
                     "query-input": "required name=search_term_string"
                 }
@@ -74,10 +74,10 @@
             {
                 "@context": "https://schema.org",
                 "@type": "Organization",
-                "@id": "https://www.wanderingspiritspa.com/#organization",
+                "@id": "https://delmonicoskitchen.com/#organization",
                 "name": "SBOBET",
                 "alternateName": "SBOBET",
-                "url": "https://www.wanderingspiritspa.com/",
+                "url": "https://delmonicoskitchen.com/",
                 "logo": "https://unravelingwine.web.app/img/banner.webp"
             }
         </script>
@@ -85,11 +85,11 @@
             {
                 "@context": "https://schema.org",
                 "@type": "Product",
-                "@id": "https://www.wanderingspiritspa.com/#product",
+                "@id": "https://delmonicoskitchen.com/#product",
                 "name": "เอสบีโอเบท สล็อตอันดับหนึ่ง ปี 2026 ใช้งานง่าย ระบบรวดเร็ว มั่นคงปลอดภัย",
                 "sku": "2S38N0881RID",
                 "image": ["https://unravelingwine.web.app/img/banner.webp"],
-                "url": "https://www.wanderingspiritspa.com/",
+                "url": "https://delmonicoskitchen.com/",
                 "description": "เอสบีโอเบท ลิงก์ตรง สล็อต 2026 API แท้ PG SLOT ระบบออโต้ เติมเงิน-ถอนเงินไว ใช้ทรูมันนี่วอเลทได้ รองรับทุกแพลตฟอร์ม",
                 "category": "สล็อตเว็บตรง",
                 "brand": {
@@ -98,7 +98,7 @@
                 },
                 "offers": {
                     "@type": "Offer",
-                    "url": "https://www.wanderingspiritspa.com/",
+                    "url": "https://delmonicoskitchen.com/",
                     "priceCurrency": "THB",
                     "price": "10000",
                     "priceValidUntil": "2027-12-31",
@@ -107,7 +107,7 @@
                     "seller": {
                         "@type": "Organization",
                         "name": "SBOBET",
-                        "url": "https://www.wanderingspiritspa.com/"
+                        "url": "https://delmonicoskitchen.com/"
                     }
                 },
                 "aggregateRating": {
@@ -128,37 +128,37 @@
                         "@type": "ListItem",
                         "position": 1,
                         "name": "SBOBET",
-                        "item": "https://www.wanderingspiritspa.com/"
+                        "item": "https://delmonicoskitchen.com/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 2,
                         "name": "pgbet888",
-                        "item": "https://www.wanderingspiritspa.com/"
+                        "item": "https://delmonicoskitchen.com/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 3,
                         "name": "สล็อต",
-                        "item": "https://www.wanderingspiritspa.com/"
+                        "item": "https://delmonicoskitchen.com/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 4,
                         "name": "สล็อตเว็บตรง",
-                        "item": "https://www.wanderingspiritspa.com/"
+                        "item": "https://delmonicoskitchen.com/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 5,
                         "name": "pg slot",
-                        "item": "https://www.wanderingspiritspa.com/"
+                        "item": "https://delmonicoskitchen.com/"
                     },
                     {
                         "@type": "ListItem",
                         "position": 6,
                         "name": "เอสบีโอเบท สล็อตอันดับหนึ่ง ปี 2026 ใช้งานง่าย ระบบรวดเร็ว มั่นคงปลอดภัย",
-                        "item": "https://www.wanderingspiritspa.com/"
+                        "item": "https://delmonicoskitchen.com/"
                     }
                 ]
             }
@@ -775,8 +775,8 @@
             <div class="container topbar-inner">
                 <div class="topbar-left">อันดับ 1 เว็บไซต์ pg slot อย่างเป็นทางการในประเทศไทย</div>
                 <div class="topbar-right">
-                    <a href="https://www.wanderingspiritspa.com/"> SBOBET </a>
-                    <a href="https://www.wanderingspiritspa.com/"> Bonus </a>
+                    <a href="https://delmonicoskitchen.com/"> SBOBET </a>
+                    <a href="https://delmonicoskitchen.com/"> Bonus </a>
                     <a href="https://www.tkbtop8.org/register?rc=sky789"> สมัครสมาชิก </a>
                     <a href="https://www.tkbtop8.org/register?rc=sky789"> เข้าสู่ระบบ </a>
                 </div>
@@ -832,13 +832,13 @@
             <div class="container" style="display: flex; align-items: center">
                 <div class="mega-cats-wrapper">
                     <div class="mega-cats container" id="megaCatsScroll" style="padding-left: 5px !important">
-                        <a class="" href="https://www.wanderingspiritspa.com/"> SBOBET </a>
-                        <a class="" href="https://www.wanderingspiritspa.com/"> pgbet888 </a>
-                        <a class="" href="https://www.wanderingspiritspa.com/"> สล็อต </a>
-                        <a class="" href="https://www.wanderingspiritspa.com/"> สล็อตเว็บตรง </a>
-                        <a class="" href="https://www.wanderingspiritspa.com/"> ทดลองเล่นสล็อต </a>
-                        <a class="" href="https://www.wanderingspiritspa.com/"> pg slot </a>
-                        <a class="" href="https://www.wanderingspiritspa.com/"> pg </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> SBOBET </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> pgbet888 </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> สล็อต </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> สล็อตเว็บตรง </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> ทดลองเล่นสล็อต </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> pg slot </a>
+                        <a class="" href="https://delmonicoskitchen.com/"> pg </a>
                     </div>
                     <div class="mega-cats-fade" id="megaCatsFade"></div>
                 </div>
@@ -1150,7 +1150,7 @@
                     loginBtn.addEventListener("click", function (e) {
                         e.preventDefault();
 
-                        window.location.href = "https://www.wanderingspiritspa.com/";
+                        window.location.href = "https://delmonicoskitchen.com/";
                     });
                 }
 
@@ -3238,15 +3238,15 @@
         </div>
         <main class="product-single product-single--v3">
             <nav aria-label="breadcrumb" class="pd-breadcrumb">
-                <a href="https://www.wanderingspiritspa.com/"> SBOBET </a>
+                <a href="https://delmonicoskitchen.com/"> SBOBET </a>
                 <span> / </span>
-                <a href="https://www.wanderingspiritspa.com/"> pgbet888 </a>
+                <a href="https://delmonicoskitchen.com/"> pgbet888 </a>
                 <span> / </span>
-                <a href="https://www.wanderingspiritspa.com/"> สล็อต </a>
+                <a href="https://delmonicoskitchen.com/"> สล็อต </a>
                 <span> / </span>
-                <a href="https://www.wanderingspiritspa.com/"> สล็อตเว็บตรง </a>
+                <a href="https://delmonicoskitchen.com/"> สล็อตเว็บตรง </a>
                 <span> / </span>
-                <a href="https://www.wanderingspiritspa.com/"> pg slot </a>
+                <a href="https://delmonicoskitchen.com/"> pg slot </a>
                 <span> / </span>
                 <span class="current">
                     เอสบีโอเบท สล็อตอันดับหนึ่ง ปี 2026 ใช้งานง่าย ระบบรวดเร็ว มั่นคงปลอดภัย
@@ -3613,7 +3613,7 @@
                                 data-ga-event="qoala_banner_click"
                                 data-product-id="325"
                                 data-product-name="SBOBET"
-                                href="https://www.wanderingspiritspa.com/"
+                                href="https://delmonicoskitchen.com/"
                                 target="_blank"
                             >
                                 Info
@@ -4458,7 +4458,7 @@
             <section class="pd-related-full">
                 <h2 class="pd-related-title">สินค้าที่เกี่ยวข้อง</h2>
                 <div class="pd-related-grid pd-related-grid--full">
-                    <a class="pd-related-card" href="https://www.wanderingspiritspa.com/">
+                    <a class="pd-related-card" href="https://delmonicoskitchen.com/">
                         <div class="thumb">
                             <img alt="Demo SLOT" src="https://unravelingwine.web.app/img/banner.webp" />
                             <span class="mini-disc"> -2% </span>
@@ -4482,7 +4482,7 @@
                             <span class="stock-dot low" title="คลังสินค้าจำกัด"> </span>
                         </div>
                     </a>
-                    <a class="pd-related-card" href="https://www.wanderingspiritspa.com/">
+                    <a class="pd-related-card" href="https://delmonicoskitchen.com/">
                         <div class="thumb">
                             <img alt="pg slot" src="https://unravelingwine.web.app/img/banner.webp" />
                             <span class="mini-disc"> -1% </span>
@@ -4506,7 +4506,7 @@
                             <span class="stock-dot out" title="หมด"> </span>
                         </div>
                     </a>
-                    <a class="pd-related-card" href="https://www.wanderingspiritspa.com/">
+                    <a class="pd-related-card" href="https://delmonicoskitchen.com/">
                         <div class="thumb">
                             <img alt="ทดลองเล่นสล็อต" src="https://unravelingwine.web.app/img/banner.webp" />
                             <span class="mini-disc"> -1% </span>
@@ -4530,7 +4530,7 @@
                             <span class="stock-dot ready" title="Ready"> </span>
                         </div>
                     </a>
-                    <a class="pd-related-card" href="https://www.wanderingspiritspa.com/">
+                    <a class="pd-related-card" href="https://delmonicoskitchen.com/">
                         <div class="thumb">
                             <img alt="สล็อตเว็บตรง" src="https://unravelingwine.web.app/img/banner.webp" />
                             <span class="mini-disc"> -1% </span>
@@ -4554,7 +4554,7 @@
                             <span class="stock-dot ready" title="Ready"> </span>
                         </div>
                     </a>
-                    <a class="pd-related-card" href="https://www.wanderingspiritspa.com/">
+                    <a class="pd-related-card" href="https://delmonicoskitchen.com/">
                         <div class="thumb">
                             <img alt="pgbet888" src="https://unravelingwine.web.app/img/banner.webp" />
                             <span class="mini-disc"> -1% </span>
@@ -4578,7 +4578,7 @@
                             <span class="stock-dot low" title="คลังสินค้าจำกัด"> </span>
                         </div>
                     </a>
-                    <a class="pd-related-card" href="https://www.wanderingspiritspa.com/">
+                    <a class="pd-related-card" href="https://delmonicoskitchen.com/">
                         <div class="thumb">
                             <img alt="SBOBET" src="https://unravelingwine.web.app/img/banner.webp" />
                             <span class="mini-disc"> -1% </span>
@@ -4767,7 +4767,7 @@
                                 id="pd-share-url-input"
                                 readonly=""
                                 type="text"
-                                value="https://www.wanderingspiritspa.com/"
+                                value="https://delmonicoskitchen.com/"
                             />
                             <button class="pd-share-copy-btn" id="pd-share-copy-url-btn" type="button">
                                 <svg height="16" viewbox="0 0 24 24" width="16">
@@ -6097,7 +6097,7 @@
             a.addEventListener('click',function(h){h.preventDefault();b.classList.contains('show')?f():e()});if(c)c.addEventListener('click',f)})();
 
             /* ===== Share Product Modal ===== */
-            (function(){const a=document.getElementById('pd-share-btn'),z=document.getElementById('mf-share'),b=document.getElementById('pd-share-modal-overlay'),c=document.getElementById('pd-share-close'),d=document.getElementById('pd-share-copy-url-btn'),e=document.getElementById('pd-share-url-input');if((!a&&!z)||!b)return;const f="https://www.wanderingspiritspa.com/",g="Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y",h="฿ 20.789.000";const discountPercent=1;let i='';if(discountPercent>0){i=`🔥 โปรโมชั่นพิเศษ! ลดราคา ${discountPercent}%
+            (function(){const a=document.getElementById('pd-share-btn'),z=document.getElementById('mf-share'),b=document.getElementById('pd-share-modal-overlay'),c=document.getElementById('pd-share-close'),d=document.getElementById('pd-share-copy-url-btn'),e=document.getElementById('pd-share-url-input');if((!a&&!z)||!b)return;const f="https://delmonicoskitchen.com/",g="Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y",h="฿ 20.789.000";const discountPercent=1;let i='';if(discountPercent>0){i=`🔥 โปรโมชั่นพิเศษ! ลดราคา ${discountPercent}%
 
 ✨ ${g}
 💰 เพียง ${h} เท่านั้น!
